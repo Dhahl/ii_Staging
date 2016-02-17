@@ -1,0 +1,577 @@
+﻿<Product>
+    <RecordReference>T1551</RecordReference>
+    <NotificationType>03</NotificationType>
+    <RecordSourceType>03</RecordSourceType>
+    <RecordSourceIdentifier>
+      <RecordSourceIDType>01</RecordSourceIDType>
+      <IDTypeName>obrien.stisonbooks.com Book ID</IDTypeName>
+      <IDValue>694</IDValue>
+    </RecordSourceIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1847171907</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781847171900</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>15</ProductIDType>
+      <IDValue>9781847171900</IDValue>
+    </ProductIdentifier>
+    <DescriptiveDetail>
+      <ProductComposition>00</ProductComposition>
+      <ProductForm>BC</ProductForm>
+      <Measure>
+        <MeasureType>01</MeasureType>
+        <Measurement>196</Measurement>
+        <MeasureUnitCode>mm</MeasureUnitCode>
+      </Measure>
+      <Measure>
+        <MeasureType>02</MeasureType>
+        <Measurement>130</Measurement>
+        <MeasureUnitCode>mm</MeasureUnitCode>
+      </Measure>
+      <Measure>
+        <MeasureType>03</MeasureType>
+        <Measurement>14</Measurement>
+        <MeasureUnitCode>mm</MeasureUnitCode>
+      </Measure>
+      <Measure>
+        <MeasureType>08</MeasureType>
+        <Measurement>205</Measurement>
+        <MeasureUnitCode>gr</MeasureUnitCode>
+      </Measure>
+      <TitleDetail>
+        <TitleType>01</TitleType>
+        <TitleElement>
+          <TitleElementLevel>01</TitleElementLevel>
+          <TitleText textcase="00">Spirit of the Titanic</TitleText>
+        </TitleElement>
+      </TitleDetail>
+      <Contributor>
+        <SequenceNumber>1</SequenceNumber>
+        <ContributorRole>A01</ContributorRole>
+        <NameIdentifier>
+          <NameIDType>01</NameIDType>
+          <IDTypeName>obrien.stisonbooks.com Author Identifier</IDTypeName>
+          <IDValue>C446</IDValue>
+        </NameIdentifier>
+        <NameIdentifier>
+          <NameIDType>16</NameIDType>
+          <IDValue>0000000047576454</IDValue>
+        </NameIdentifier>
+        <NamesBeforeKey>Nicola</NamesBeforeKey>
+        <KeyNames>Pierce</KeyNames>
+        <BiographicalNote textformat="02">&lt;p&gt;Tallaght-born Nicola Pierce is a writer, living in Drogheda.&lt;/p&gt;</BiographicalNote>
+      </Contributor>
+      <Contributor>
+        <SequenceNumber>2</SequenceNumber>
+        <ContributorRole>A12</ContributorRole>
+        <NameIdentifier>
+          <NameIDType>01</NameIDType>
+          <IDTypeName>obrien.stisonbooks.com Author Identifier</IDTypeName>
+          <IDValue>C332</IDValue>
+        </NameIdentifier>
+        <NameIdentifier>
+          <NameIDType>16</NameIDType>
+          <IDValue>0000000048538265</IDValue>
+        </NameIdentifier>
+        <NamesBeforeKey>Emma</NamesBeforeKey>
+        <KeyNames>Byrne</KeyNames>
+        <ProfessionalAffiliation>
+          <Affiliation>The O'Brien Press Ltd</Affiliation>
+        </ProfessionalAffiliation>
+        <BiographicalNote textformat="02">&lt;p class="AuthorBlurb"&gt;&lt;strong&gt;Emma Byrne &lt;/strong&gt;is a graphic designer and artist. She is a graduate of Central Saint Martins School of Art and Design. She has won numerous awards for her design including The IDI (Irish Design Institute) Graduate Designer of the Year, the IDI Promotional Literature Award for her work on &lt;em&gt;Brown Morning&lt;/em&gt;, and a Children’s Books Ireland Bisto Merit Award for her work on &lt;em&gt;Something Beginning With P: New Poems from Irish Poets&lt;/em&gt;. She has illustrated many books, including &lt;em&gt;Best-Loved Oscar Wilde&lt;/em&gt;, &lt;em&gt;Best Loved Yeats&lt;/em&gt;, &lt;em&gt;The Most Beautiful Letter in the World&lt;/em&gt; by Karl O’Neill, a special edition of &lt;em&gt;Ulysses&lt;/em&gt; by James Joyce, and &lt;em&gt;A Terrible Beauty&lt;/em&gt; by Mairéad Ashe Fitzgerald. She lives in a thatched house in Co. Wexford.&lt;/p&gt;</BiographicalNote>
+      </Contributor>
+      <NoEdition/>
+      <Extent>
+        <ExtentType>00</ExtentType>
+        <ExtentValue>240</ExtentValue>
+        <ExtentUnit>03</ExtentUnit>
+      </Extent>
+      <Extent>
+        <ExtentType>02</ExtentType>
+        <ExtentValue>40000</ExtentValue>
+        <ExtentUnit>02</ExtentUnit>
+      </Extent>
+      <AncillaryContent>
+        <AncillaryContentType>01</AncillaryContentType>
+        <Number>20</Number>
+      </AncillaryContent>
+      <Subject>
+        <MainSubject/>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectSchemeVersion>1.1</SubjectSchemeVersion>
+        <SubjectCode>JUV016000</SubjectCode>
+      </Subject>
+      <Subject>
+        <MainSubject/>
+        <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+        <SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+        <SubjectCode>YFT</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+        <SubjectSchemeVersion>1.1</SubjectSchemeVersion>
+        <SubjectCode>JUV037000</SubjectCode>
+        <SubjectHeadingText>JUVENILE FICTION / Science Fiction, Fantasy, Magic</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+        <SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+        <SubjectCode>YFH</SubjectCode>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>23</SubjectSchemeIdentifier>
+        <SubjectSchemeName>Theme</SubjectSchemeName>
+        <SubjectCode>T137</SubjectCode>
+        <SubjectHeadingText>HONOUR AND DUTY/COURAGE/LOYALTY/HOPE</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>23</SubjectSchemeIdentifier>
+        <SubjectSchemeName>Theme</SubjectSchemeName>
+        <SubjectCode>T136</SubjectCode>
+        <SubjectHeadingText>COMING OF AGE/BEREAVEMENT AND DEATH/DISCRIMINATION</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>23</SubjectSchemeIdentifier>
+        <SubjectSchemeName>Theme</SubjectSchemeName>
+        <SubjectCode>T123</SubjectCode>
+        <SubjectHeadingText>SHIPBUILDING AND SOCIETY</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>23</SubjectSchemeIdentifier>
+        <SubjectSchemeName>Theme</SubjectSchemeName>
+        <SubjectCode>T107</SubjectCode>
+        <SubjectHeadingText>TITANIC</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>23</SubjectSchemeIdentifier>
+        <SubjectSchemeName>Theme</SubjectSchemeName>
+        <SubjectCode>T1</SubjectCode>
+        <SubjectHeadingText>Adventure</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>23</SubjectSchemeIdentifier>
+        <SubjectSchemeName>Theme</SubjectSchemeName>
+        <SubjectCode>T2</SubjectCode>
+        <SubjectHeadingText>Issues</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>23</SubjectSchemeIdentifier>
+        <SubjectSchemeName>Theme</SubjectSchemeName>
+        <SubjectCode>T9</SubjectCode>
+        <SubjectHeadingText>Family Relationships</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>23</SubjectSchemeIdentifier>
+        <SubjectSchemeName>Theme</SubjectSchemeName>
+        <SubjectCode>T11</SubjectCode>
+        <SubjectHeadingText>Personal Challenge</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>23</SubjectSchemeIdentifier>
+        <SubjectSchemeName>Theme</SubjectSchemeName>
+        <SubjectCode>T12</SubjectCode>
+        <SubjectHeadingText>Difference, prejudice, intolerance</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>23</SubjectSchemeIdentifier>
+        <SubjectSchemeName>Theme</SubjectSchemeName>
+        <SubjectCode>T13</SubjectCode>
+        <SubjectHeadingText>History</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>23</SubjectSchemeIdentifier>
+        <SubjectSchemeName>Theme</SubjectSchemeName>
+        <SubjectCode>T14</SubjectCode>
+        <SubjectHeadingText>Fantasy, Other worlds</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>23</SubjectSchemeIdentifier>
+        <SubjectSchemeName>Subject</SubjectSchemeName>
+        <SubjectCode>20</SubjectCode>
+        <SubjectHeadingText>Historical Fiction</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>23</SubjectSchemeIdentifier>
+        <SubjectSchemeName>Subject</SubjectSchemeName>
+        <SubjectCode>23</SubjectCode>
+        <SubjectHeadingText>Children's fiction</SubjectHeadingText>
+      </Subject>
+      <Subject>
+        <SubjectSchemeIdentifier>21</SubjectSchemeIdentifier>
+        <SubjectCode>D3N79</SubjectCode>
+      </Subject>
+      <Audience>
+        <AudienceCodeType>01</AudienceCodeType>
+        <AudienceCodeValue>02</AudienceCodeValue>
+      </Audience>
+      <Audience>
+        <AudienceCodeType>02</AudienceCodeType>
+        <AudienceCodeTypeName>O'Brien Reading Age Flags</AudienceCodeTypeName>
+        <AudienceCodeValue>Blue</AudienceCodeValue>
+      </Audience>
+      <AudienceRange>
+        <AudienceRangeQualifier>17</AudienceRangeQualifier>
+        <AudienceRangePrecision>03</AudienceRangePrecision>
+        <AudienceRangeValue>9</AudienceRangeValue>
+      </AudienceRange>
+      <AudienceRange>
+        <AudienceRangeQualifier>18</AudienceRangeQualifier>
+        <AudienceRangePrecision>03</AudienceRangePrecision>
+        <AudienceRangeValue>9</AudienceRangeValue>
+      </AudienceRange>
+    </DescriptiveDetail>
+    <CollateralDetail>
+      <TextContent>
+        <TextType>03</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;Fifteen-year-old Samuel Scott died while building the Titanic. As the ship sails to her doom, his ghost moves restlessly alongside the passengers and crew: Frederick Fleet: the young look-out who spotted the iceberg and who survived in a life-boat with (the unsinkable) Molly Brown; Howard Hartley Wallace: the heroic band-leader who played ragtime music as the freezing waters lapped at his feet; Harold Bride: the junior radio operator whose messages echoed on, long after the ship had disappeared to its icy grave …&lt;/p&gt;
+</Text>
+      </TextContent>
+      <TextContent>
+        <TextType>02</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;The ghost of fifteen-year-old Samuel Scott moves restlessly aboard the Titanic as she sails to her doom in 1912. An eyewitness to the final days in the lives of rich and poor, crew and passengers, this is Samuel’s story …&lt;/p&gt;
+</Text>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;an excellently researched story … you will be captivated&lt;/p&gt;
+</Text>
+        <TextAuthor>Mad About Books</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'a ghost story with a twist'&lt;/p&gt;
+</Text>
+        <TextAuthor>Sunday Independent</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'It is a tale which reinforces the idea that Titanic’s wider story is about people ... brings home the terror, sadness and tragedy of the ship’s last moments'&lt;/p&gt;
+</Text>
+        <TextAuthor>Titanic Stories</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'new and beautiful children’s novel ... The children were fascinated, I never saw so many children so engaged with an author ... the children were captivated by the book’s content and Nicola’s delivery.'&lt;/p&gt;
+</Text>
+        <TextAuthor>Nationalist &amp; Munster Advertiser</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'Little did I know that this book would be gripping, exciting and unimaginably shattering. Towards the end, things picked up a lot, and I realised that this would just get better and better and better.'&lt;/p&gt;
+</Text>
+        <TextAuthor>Guardian’s Children’s Books</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'Unique ... Compelling ...even though we all know the ending the narrative is utterly engrossing ... I admit I laughed, I cried and I stayed up way past my usual bedtime in order to finish this poignant and beautifully written book. This is one not to be missed.'&lt;/p&gt;
+</Text>
+        <TextAuthor>Lisa Reads</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'captivating'&lt;/p&gt;
+</Text>
+        <TextAuthor>New Ross Standard</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'we guarantee you will not be able to put it down'&lt;/p&gt;
+</Text>
+        <TextAuthor>Nationalist &amp; Munster Advertiser</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'an excellent dramatic adventure story ... this is historical fiction at its best'&lt;/p&gt;
+</Text>
+        <TextAuthor>English 4-11</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'captivating'&lt;/p&gt;
+</Text>
+        <TextAuthor>Leinster Leader</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'I was captivated by the writing and I couldn’t put it down ... The book is beautifully produced - the cover making it look like an artefact from the time with delicate illustration and patterned design by Dave Hopkins while Emma Byrne reproduces tickets, menus and telegrams throughout the book.'&lt;/p&gt;
+</Text>
+        <TextAuthor>NI4Kids</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'It is obviously a challenge to be able to make vivid and compelling a story whose ending we all know but Pierce manages this ... writing is entirely captivating, the detail fascinating and the terror real.'&lt;/p&gt;
+</Text>
+        <TextAuthor>NI4Kids</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'an impressive debut ... he world of the yard is well-realised and the stylistic leap of having this character die within the novel’s opening pages is brave and clever'&lt;/p&gt;
+</Text>
+        <TextAuthor>NI4Kids</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'It teems with historical characters and is the result of prodigious research into their final fates.'&lt;/p&gt;
+</Text>
+        <TextAuthor>Verbal Magazine</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'A stunning debut from a talented local ... beautifully written, exciting book'&lt;/p&gt;
+</Text>
+        <TextAuthor>Verbal Magazine</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'I certainly shed a tear at the end ... Beautifully handled...beautifully written ...I enjoyed it very, very much.'&lt;/p&gt;
+</Text>
+        <TextAuthor>BBC Radio Ulster’s Arts Extra</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'I'm particularly excited to read Spirit of the Titanic, as I'm really interested in the Titanic and everything to do with it.'&lt;/p&gt;
+</Text>
+        <TextAuthor>Wondrous ReadsBBC Radio Ulster’s Arts Extra</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'I would not mind betting that readers in Northern Ireland having read this story, will make their way to Belfast City Cemetery to see the unmarked grave of one Samuel Joseph Scott, which is part of the official tour. A ghostly Sam is on the cover of ‘his’ story.'&lt;/p&gt;
+</Text>
+        <TextAuthor>Books for Keeps</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'this familiar story does not fail to grip the reader ... The notes (at the end) make the story even more alive, as they tell of the lives, after the rescue, of several of the real life characters in the story.'&lt;/p&gt;
+</Text>
+        <TextAuthor>Books for Keeps</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'This breathtaking book takes you on the deck of the Titanic with its amazing descriptive language describing every scene from top to bottom ... It may make you shed a tear or giggle a little but either way you are sure to thoroughly enjoy the book ... Every chapter gets more and more exciting and as soon as you start reading your eyes will immediately be glued to the book ... I would recommend this book to anybody who enjoys reading a spooky, emotional book and is interested in the fascinating events of 1912. I would rate this book 10/10.'&lt;/p&gt;
+</Text>
+        <TextAuthor>Guardian Children’s Books Online</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'Pierce delivers some masterful narrative which will hold children aged 10 and upwards enthralled, as we were, regardless of our prior knowledge of the ship's fate.'&lt;/p&gt;
+</Text>
+        <TextAuthor>Evening Echo</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'Pierce immerses us in the hope, despair and life lessons of Titanic's ill-fated voyage.'&lt;/p&gt;
+</Text>
+        <TextAuthor>Book Fest</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'intriguing stuff'&lt;/p&gt;
+</Text>
+        <TextAuthor>Belfast Telegraph</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'enthralling'&lt;/p&gt;
+</Text>
+        <TextAuthor>Belfast Telegraph’s Weekend Magazine</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'While primarily a book written for children, Spirit of the Titanic is the type of book that can be enjoyed by readers of all ages, especially Titanic fans. A unique take on the enduring tale of the Titanic, this beautifully written story managed to captivate me from start to finish and I’ve since passed it on to my young nephews. Highly recommended!'&lt;/p&gt;
+</Text>
+        <TextAuthor>dailyupdate.ie</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'a unique angle on the enduring Titanic story ... a valuable addition to a school Titanic project or for any competent reader who loves historical fiction in general and the Titanic in particular'&lt;/p&gt;
+</Text>
+        <TextAuthor>Gill Robbins</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'a stocking filler must this Christmas ... captivating'&lt;/p&gt;
+</Text>
+        <TextAuthor>Sunday Business Post</TextAuthor>
+      </TextContent>
+      <TextContent>
+        <TextType>06</TextType>
+        <ContentAudience>00</ContentAudience>
+        <Text textformat="02">&lt;p&gt;'beautifully produced'&lt;/p&gt;
+</Text>
+        <TextAuthor>North West Telegraph</TextAuthor>
+      </TextContent>
+      <SupportingResource>
+        <ResourceContentType>01</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>02</ResourceForm>
+          <ResourceVersionFeature>
+            <ResourceVersionFeatureType>01</ResourceVersionFeatureType>
+            <FeatureValue>D502</FeatureValue>
+          </ResourceVersionFeature>
+          <ResourceLink>https://obrien.stisonbooks.com/images/books/native/9781847171900.jpg</ResourceLink>
+        </ResourceVersion>
+      </SupportingResource>
+      <SupportingResource>
+        <ResourceContentType>04</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>02</ResourceForm>
+          <ResourceVersionFeature>
+            <ResourceVersionFeatureType>01</ResourceVersionFeatureType>
+            <FeatureValue>D502</FeatureValue>
+          </ResourceVersionFeature>
+          <ResourceLink>https://obrien.stisonbooks.com/asset/1243/native/NicolaPierce.jpg</ResourceLink>
+        </ResourceVersion>
+      </SupportingResource>
+      <SupportingResource>
+        <ResourceContentType>04</ResourceContentType>
+        <ContentAudience>00</ContentAudience>
+        <ResourceMode>03</ResourceMode>
+        <ResourceVersion>
+          <ResourceForm>02</ResourceForm>
+          <ResourceVersionFeature>
+            <ResourceVersionFeatureType>01</ResourceVersionFeatureType>
+            <FeatureValue>D502</FeatureValue>
+          </ResourceVersionFeature>
+          <ResourceLink>https://obrien.stisonbooks.com/asset/14822/native/EmmaByrne.jpg</ResourceLink>
+        </ResourceVersion>
+      </SupportingResource>
+    </CollateralDetail>
+    <PublishingDetail>
+      <Imprint>
+        <ImprintName>The O'Brien Press</ImprintName>
+      </Imprint>
+      <Publisher>
+        <PublishingRole>01</PublishingRole>
+        <PublisherName>The O'Brien Press</PublisherName>
+      </Publisher>
+      <CityOfPublication>Dublin</CityOfPublication>
+      <CountryOfPublication>IE</CountryOfPublication>
+      <PublishingStatus>04</PublishingStatus>
+      <PublishingDate>
+        <PublishingDateRole>01</PublishingDateRole>
+        <Date>20110411</Date>
+      </PublishingDate>
+      <PublishingDate>
+        <PublishingDateRole>11</PublishingDateRole>
+        <Date dateformat="05">2011</Date>
+      </PublishingDate>
+      <CopyrightStatement>
+        <CopyrightYear>2011</CopyrightYear>
+      </CopyrightStatement>
+      <SalesRights>
+        <SalesRightsType>01</SalesRightsType>
+        <Territory>
+          <RegionsIncluded>ROW</RegionsIncluded>
+        </Territory>
+      </SalesRights>
+      <SalesRights>
+        <SalesRightsType>03</SalesRightsType>
+        <Territory>
+          <CountriesIncluded>CA</CountriesIncluded>
+        </Territory>
+      </SalesRights>
+      <ROWSalesRightsType>01</ROWSalesRightsType>
+    </PublishingDetail>
+    <RelatedMaterial>
+      <RelatedWork>
+        <WorkRelationCode>01</WorkRelationCode>
+        <WorkIdentifier>
+          <WorkIDType>01</WorkIDType>
+          <IDTypeName>obrien.stisonbooks.com Content ID</IDTypeName>
+          <IDValue>654</IDValue>
+        </WorkIdentifier>
+      </RelatedWork>
+      <RelatedProduct>
+        <ProductRelationCode>23</ProductRelationCode>
+        <ProductIdentifier>
+          <ProductIDType>15</ProductIDType>
+          <IDValue>9780862785901</IDValue>
+        </ProductIdentifier>
+      </RelatedProduct>
+    </RelatedMaterial>
+    <ProductSupply>
+      <SupplyDetail>
+        <Supplier>
+          <SupplierRole>01</SupplierRole>
+          <SupplierIdentifier>
+            <SupplierIDType>01</SupplierIDType>
+            <IDTypeName>obrien.stisonbooks.com Supplier Code</IDTypeName>
+            <IDValue>S298</IDValue>
+          </SupplierIdentifier>
+          <SupplierName>Gill and Macmillan Distribution</SupplierName>
+          <EmailAddress>sales@gillmacmillan.ie</EmailAddress>
+          <Website>
+            <WebsiteRole>33</WebsiteRole>
+            <WebsiteLink>http://www.gillmacmillan.ie</WebsiteLink>
+          </Website>
+        </Supplier>
+        <ProductAvailability>20</ProductAvailability>
+        <PackQuantity>72</PackQuantity>
+        <Price>
+          <PriceType>01</PriceType>
+          <DiscountCoded>
+            <DiscountCodeType>01</DiscountCodeType>
+            <DiscountCode>AGILL001</DiscountCode>
+          </DiscountCoded>
+          <PriceStatus>01</PriceStatus>
+          <PriceAmount>8.99</PriceAmount>
+          <CurrencyCode>EUR</CurrencyCode>
+          <PrintedOnProduct>01</PrintedOnProduct>
+        </Price>
+        <Price>
+          <PriceType>02</PriceType>
+          <DiscountCoded>
+            <DiscountCodeType>01</DiscountCodeType>
+            <DiscountCode>AGILL001</DiscountCode>
+          </DiscountCoded>
+          <PriceStatus>01</PriceStatus>
+          <PriceAmount>6.99</PriceAmount>
+          <Tax>
+            <TaxRateCode>Z</TaxRateCode>
+            <TaxRatePercent>0</TaxRatePercent>
+            <TaxableAmount>6.99</TaxableAmount>
+            <TaxAmount>0.00</TaxAmount>
+          </Tax>
+          <CurrencyCode>GBP</CurrencyCode>
+          <PrintedOnProduct>01</PrintedOnProduct>
+        </Price>
+      </SupplyDetail>
+    </ProductSupply>
+  </Product>

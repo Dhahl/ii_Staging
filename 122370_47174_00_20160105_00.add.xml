@@ -1,0 +1,957 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE ONIXMessage SYSTEM "http://www.editeur.org/onix/2.1/reference/onix-international.dtd">
+<ONIXMessage>
+<Header>
+<FromEANNumber>5013546111661</FromEANNumber>
+<FromCompany>NielsenBookData</FromCompany>
+<FromPerson>Angela Kendall</FromPerson>
+<FromEmail>angela.kendall@nielsen.com</FromEmail>
+<SentDate>20160105</SentDate>
+<DefaultLanguageOfText>eng</DefaultLanguageOfText>
+</Header>
+<Product>
+<RecordReference>9780414038066</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9780414038066</IDValue>
+</ProductIdentifier>
+<ProductForm>BB</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Sentencing Law and Practice</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Thomas O'Malley</PersonName>
+<PersonNameInverted>O'Malley, Thomas</PersonNameInverted>
+<NamesBeforeKey>Thomas</NamesBeforeKey>
+<KeyNames>O'Malley</KeyNames>
+</Contributor>
+<EditionTypeCode>REV</EditionTypeCode>
+<EditionNumber>3</EditionNumber>
+<EditionStatement>3rd Revised edition</EditionStatement>
+<BASICMainSubject>LAW026020</BASICMainSubject>
+<BASICVersion>BISAC 2013</BASICVersion>
+<BICMainSubject>LNFX1</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>13</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>1DBKE</SubjectCode>
+<SubjectHeadingText>England</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>13</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>1DBKW</SubjectCode>
+<SubjectHeadingText>Wales</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>LNFX1</SubjectCode>
+<SubjectHeadingText>Sentencing &amp; punishment</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>94</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>1DDU-GB-E</SubjectCode>
+<SubjectHeadingText>England</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>94</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>1DDU-GB-W</SubjectCode>
+<SubjectHeadingText>Wales</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>DC23</SubjectSchemeVersion>
+<SubjectCode>345.420772</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>S5.4</SubjectCode>
+<SubjectHeadingText>National Law: Professional</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>LAW</SubjectCode>
+<SubjectHeadingText>ANF:Law</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>LAW</SubjectCode>
+<SubjectHeadingText>ANF: Law</SubjectHeadingText>
+</Subject>
+<AudienceCode>06</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>83926</NameCodeValue>
+<ImprintName>Round Hall Ltd</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>83926</NameCodeValue>
+<PublisherName>Round Hall Ltd</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160331</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsCountry>GB AU CA NZ ZA US</RightsCountry>
+</SalesRights>
+</Product>
+<Product>
+<RecordReference>9781843516637</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781843516637</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>The Abode of Fancy</TitleText>
+<TitlePrefix>The</TitlePrefix>
+<TitleWithoutPrefix>Abode of Fancy</TitleWithoutPrefix>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Sam Coll</PersonName>
+<PersonNameInverted>Coll, Sam</PersonNameInverted>
+<NamesBeforeKey>Sam</NamesBeforeKey>
+<KeyNames>Coll</KeyNames>
+</Contributor>
+<BASICMainSubject>FIC000000</BASICMainSubject>
+<BASICVersion>BISAC 2013</BASICVersion>
+<BICMainSubject>FA</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>FBA</SubjectCode>
+<SubjectHeadingText>Modern &amp; contemporary fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>F1.1</SubjectCode>
+<SubjectHeadingText>General &amp; Literary Fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>GEN</SubjectCode>
+<SubjectHeadingText>AF:General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>GNR</SubjectCode>
+<SubjectHeadingText>AF: General</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>70833</NameCodeValue>
+<ImprintName>The Lilliput Press Ltd</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>70833</NameCodeValue>
+<PublisherName>The Lilliput Press Ltd</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160331</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+</Product>
+<Product>
+<RecordReference>9781908043917</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781908043917</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Crash and Hang Analysis</TitleText>
+<Subtitle>A Guide for System Administrators, Devops, and Support Engineers</Subtitle>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Thomas Monahan</PersonName>
+<PersonNameInverted>Monahan, Thomas</PersonNameInverted>
+<NamesBeforeKey>Thomas</NamesBeforeKey>
+<KeyNames>Monahan</KeyNames>
+</Contributor>
+<Contributor>
+<SequenceNumber>2</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Dmitry Vostokov</PersonName>
+<PersonNameInverted>Vostokov, Dmitry</PersonNameInverted>
+<NamesBeforeKey>Dmitry</NamesBeforeKey>
+<KeyNames>Vostokov</KeyNames>
+</Contributor>
+<NumberOfPages>200</NumberOfPages>
+<BASICMainSubject>COM046040</BASICMainSubject>
+<BASICVersion>BISAC 2013</BASICVersion>
+<BICMainSubject>ULD</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>COM046050</SubjectCode>
+<SubjectHeadingText>COMPUTERS / Operating Systems / Windows Server</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>COM043000</SubjectCode>
+<SubjectHeadingText>COMPUTERS / Networking / General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>COM055020</SubjectCode>
+<SubjectHeadingText>COMPUTERS / Certification Guides / MCSE</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>COM046090</SubjectCode>
+<SubjectHeadingText>COMPUTERS / Operating Systems / Virtualization</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>UTC</SubjectCode>
+<SubjectHeadingText>Cloud computing</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>UQF</SubjectCode>
+<SubjectHeadingText>Computer certification: Microsoft</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>UTV</SubjectCode>
+<SubjectHeadingText>Virtualisation</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>ULD</SubjectCode>
+<SubjectHeadingText>Microsoft (Windows) operating systems</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>UTC</SubjectCode>
+<SubjectHeadingText>Cloud computing</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>UQF</SubjectCode>
+<SubjectHeadingText>Computer certification: Microsoft</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>UTV</SubjectCode>
+<SubjectHeadingText>Virtualisation</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>COM</SubjectCode>
+<SubjectHeadingText>ANF:Computers and IT</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>COM</SubjectCode>
+<SubjectHeadingText>ANF: Computers and IT</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<AudienceCode>06</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>201162</NameCodeValue>
+<ImprintName>Opentask</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>201162</NameCodeValue>
+<PublisherName>Opentask</PublisherName>
+</Publisher>
+<CityOfPublication>Monkstown</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160331</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+<Measure>
+<MeasureTypeCode>01</MeasureTypeCode>
+<Measurement>246</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>02</MeasureTypeCode>
+<Measurement>189</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<RelatedProduct>
+<RelationCode>03</RelationCode>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781906717025</IDValue>
+</ProductIdentifier>
+</RelatedProduct>
+</Product>
+<Product>
+<RecordReference>9781782180166</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781782180166</IDValue>
+</ProductIdentifier>
+<ProductForm>BB</ProductForm>
+<ProductFormDetail>B304</ProductFormDetail>
+<ProductFormDetail>B401</ProductFormDetail>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>An Chomaoineach Naofa (AR a Dtugtar Fosta an Eocairist No Suipear an Tiarna) Agus Seirbhisi Eile de Chuid Eaglais Na Heireann =</TitleText>
+<TitlePrefix>An</TitlePrefix>
+<TitleWithoutPrefix>Chomaoineach Naofa (AR a Dtugtar Fosta an Eocairist No Suipear an Tiarna) Agus Seirbhisi Eile de Chuid Eaglais Na Heireann =</TitleWithoutPrefix>
+<Subtitle>Holy Communion (Also Called the Eucharist or the Lord's Supper) and Other Frequently-Used Services</Subtitle>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Cumann Gaelach Na Heaglaise</PersonName>
+<PersonNameInverted>Cumann Gaelach Na Heaglaise</PersonNameInverted>
+<KeyNames>Cumann Gaelach Na Heaglaise</KeyNames>
+</Contributor>
+<Language>
+<LanguageRole>01</LanguageRole>
+<LanguageCode>eng</LanguageCode>
+</Language>
+<Language>
+<LanguageRole>01</LanguageRole>
+<LanguageCode>gle</LanguageCode>
+</Language>
+<NumberOfPages>165</NumberOfPages>
+<BASICMainSubject>REL016000</BASICMainSubject>
+<BICMainSubject>HRLP</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>QRVS</SubjectCode>
+<SubjectHeadingText>Religious institutions &amp; organizations</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>DC21</SubjectSchemeVersion>
+<SubjectCode>264.03</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>04</SubjectSchemeIdentifier>
+<SubjectHeadingText>Church of Ireland - Liturgy</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>T6.6</SubjectCode>
+<SubjectHeadingText>Non-Christian Religions</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>REL</SubjectCode>
+<SubjectHeadingText>ANF:Religion</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>REL</SubjectCode>
+<SubjectHeadingText>ANF: Religion</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>77982</NameCodeValue>
+<ImprintName>Columba Press</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>77982</NameCodeValue>
+<PublisherName>Columba Press</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20130131</PublicationDate>
+</Product>
+<Product>
+<RecordReference>9781473619913</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781473619913</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<ProductFormDetail>B106</ProductFormDetail>
+<ProductFormDescription>UK Trade Paperback</ProductFormDescription>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>The Perfect Gift</TitleText>
+<TitlePrefix>The</TitlePrefix>
+<TitleWithoutPrefix>Perfect Gift</TitleWithoutPrefix>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Emma Hannigan</PersonName>
+<PersonNameInverted>Hannigan, Emma</PersonNameInverted>
+<NamesBeforeKey>Emma</NamesBeforeKey>
+<KeyNames>Hannigan</KeyNames>
+</Contributor>
+<NumberOfPages>496</NumberOfPages>
+<BASICMainSubject>FIC000000</BASICMainSubject>
+<BASICVersion>BISAC 2013</BASICVersion>
+<BICMainSubject>FA</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>FBA</SubjectCode>
+<SubjectHeadingText>Modern &amp; contemporary fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>F1.1</SubjectCode>
+<SubjectHeadingText>General &amp; Literary Fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>GEN</SubjectCode>
+<SubjectHeadingText>AF:General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>GNR</SubjectCode>
+<SubjectHeadingText>AF: General</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9781473619913.jpg</MediaFileLink>
+</MediaFile>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>215236</NameCodeValue>
+<ImprintName>Hachette Books Ireland</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>215236</NameCodeValue>
+<PublisherName>Hachette Books Ireland</PublisherName>
+</Publisher>
+<CityOfPublication>Castleknock</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160211</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsCountry>GB AU CA IE NZ ZA AD AG AI AM AQ AT AX AZ BA BB BD BE BG BL BM BN BS BT BV BW BY BZ CC CH CK CM CX CY CZ DE DK DM EE EG ES FI FJ FK FO FR GD GE GF GH GI GL GM GP GR GS GY HK HM HR HU IL IN IO IQ IS IT JM JO KE KI KN KW KY LC LI LK LS LT LU LV MC MD MF MK MM MQ MS MT MU MV MW MY MZ NA NF NG NL NO NR NU PG PK PL PN PT RE RO RU RW SB SC SD SE SG SH SI SJ SK SL SM SO SZ TC TF TK TO TR TT TV TZ UA UG VA VC VG VU WF WS YE YT ZM ZW</RightsCountry>
+</SalesRights>
+<SalesRights>
+<SalesRightsType>02</SalesRightsType>
+<RightsCountry>AE AF AO AR AW BF BH BI BJ BO BR CD CF CG CI CL CN CO CR CU CV DJ DO DZ EC EH ER ET GA GN GQ GT GW HN HT ID IR JP KG KH KM KP KR KZ LA LB LR LY MA MG ML MN MO MR MX NC NE NI NP OM PA PE PM PW PY QA SA SN SR ST SV SY TD TG TH TJ TM TN TW UY UZ VE VN</RightsCountry>
+</SalesRights>
+<SalesRights>
+<SalesRightsType>03</SalesRightsType>
+<RightsCountry>US AS FM GU MH MP PH PR UM VI</RightsCountry>
+</SalesRights>
+<Measure>
+<MeasureTypeCode>01</MeasureTypeCode>
+<Measurement>234</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>02</MeasureTypeCode>
+<Measurement>153</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<SupplyDetail>
+<SupplierName>Argosy</SupplierName>
+<SupplierRole>04</SupplierRole>
+<SupplyToCountry>GB</SupplyToCountry>
+<ProductAvailability>20</ProductAvailability>
+<UnpricedItemType>04</UnpricedItemType>
+</SupplyDetail>
+<SupplyDetail>
+<SupplierName>Gardners</SupplierName>
+<SupplierRole>04</SupplierRole>
+<SupplyToCountry>GB</SupplyToCountry>
+<ProductAvailability>20</ProductAvailability>
+<UnpricedItemType>04</UnpricedItemType>
+</SupplyDetail>
+</Product>
+<Product>
+<RecordReference>9781847177520</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781847177520</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>03</ProductIDType>
+<IDValue>9781847177520</IDValue>
+</ProductIdentifier>
+<ProductForm>DG</ProductForm>
+<ProductContentType>10</ProductContentType>
+<EpubType>029</EpubType>
+<EpubFormatDescription>EPUB format</EpubFormatDescription>
+<Series>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Rugby Spirit</TitleText>
+</Title>
+</Series>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Rugby Rebel</TitleText>
+<Subtitle>Discovering History - Uncovering Mystery</Subtitle>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Gerard Siggins</PersonName>
+<PersonNameInverted>Siggins, Gerard</PersonNameInverted>
+<NamesBeforeKey>Gerard</NamesBeforeKey>
+<KeyNames>Siggins</KeyNames>
+</Contributor>
+<BASICMainSubject>JUV032000</BASICMainSubject>
+<BASICVersion>1.1</BASICVersion>
+<BICMainSubject>YFR</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.1</SubjectSchemeVersion>
+<SubjectCode>JUV018000</SubjectCode>
+<SubjectHeadingText>JUVENILE FICTION / Horror &amp; Ghost Stories</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>YFD</SubjectCode>
+<SubjectHeadingText>Horror &amp; ghost stories, chillers (Children's / Teenage)</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>YFR</SubjectCode>
+<SubjectHeadingText>Children&#xef;&#xbf;&#xbd;s / Teenage fiction: Sporting stories</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>YFD</SubjectCode>
+<SubjectHeadingText>Children&#xef;&#xbf;&#xbd;s / Teenage fiction: Horror &amp; ghost stories, chillers</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>DC23</SubjectSchemeVersion>
+<SubjectCode>823.92</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>Y2.1</SubjectCode>
+<SubjectHeadingText>Children&#xef;&#xbf;&#xbd;s Fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>21</SubjectSchemeIdentifier>
+<SubjectCode>D3N79</SubjectCode>
+<SubjectHeadingText>(D) 9-11 years; (3) Fiction; (N) Ordinary Printed Book Format; (7) Non-character; (9) Non Tie-in</SubjectHeadingText>
+</Subject>
+<AudienceCode>02</AudienceCode>
+<AudienceDescription>Reading Age: From 10 years, Interest Age: From 10 years</AudienceDescription>
+<OtherText>
+<TextTypeCode>02</TextTypeCode>
+<Text>Book three in Gerard Siggins' supernatural Rugby series.
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>Eoin Madden's having a busy term with friend issues, schoolwork and new rugby challenges; he's been moved up to train with the Junior Cup team, which is hard work, plus there's trouble in his dormitory as mobile phones start going missing!
+
+But as usual there are ghostly goings-on in Castlerock school - what's the link between Eoin's history lessons and the new spirit he's spotted wearing a Belvedere rugby jersey? &#xe2; &#xa6; Historical and modern mysteries combine in this intriguing tale of rugby, rebellion and ghosts.
+
+'Beautifully crafted by Siggins, this is a book that will thrill any rugby-mad youngster while delighting sports fans (of any age) with an interest in entertaining storytelling.' Irish Daily Mail on Rugby Warrior
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<Text>a well written story of school life and the ups and downs of friendship, with intriguing mysteries real historical characters brought vividly to life &#xe2; &#xa6; much broader appeal than just sports fans as it is packed full of fun, action and adventure
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>Gerard Siggins was born in Dublin in 1962. Initially a sports journalist, he worked for many years in the Sunday Tribune, where he became assistant editor. He has written several books about cricket, as well as being co-author of Lansdowne Road: The Stadium; The Matches; The Greatest Days.
+</Text>
+</OtherText>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9781847177520.jpg</MediaFileLink>
+</MediaFile>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>69692</NameCodeValue>
+<ImprintName>O'Brien Press Ltd</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>69692</NameCodeValue>
+<PublisherName>O'Brien Press Ltd</PublisherName>
+</Publisher>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20150302</PublicationDate>
+<CopyrightYear>2015</CopyrightYear>
+<YearFirstPublished>20150000</YearFirstPublished>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+<RelatedProduct>
+<RelationCode>13</RelationCode>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781847176776</IDValue>
+</ProductIdentifier>
+</RelatedProduct>
+</Product>
+<Product>
+<RecordReference>9781847177537</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781847177537</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>03</ProductIDType>
+<IDValue>9781847177537</IDValue>
+</ProductIdentifier>
+<ProductForm>DG</ProductForm>
+<ProductContentType>10</ProductContentType>
+<EpubType>029</EpubType>
+<EpubFormatDescription>EPUB format</EpubFormatDescription>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Best-Loved Oscar Wilde</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>B01</ContributorRole>
+<PersonName>John Wyse Jackson</PersonName>
+<PersonNameInverted>Wyse Jackson, John</PersonNameInverted>
+<NamesBeforeKey>John</NamesBeforeKey>
+<KeyNames>Wyse Jackson</KeyNames>
+</Contributor>
+<Contributor>
+<SequenceNumber>2</SequenceNumber>
+<ContributorRole>A12</ContributorRole>
+<PersonName>Emma Byrne</PersonName>
+<PersonNameInverted>Byrne, Emma</PersonNameInverted>
+<NamesBeforeKey>Emma</NamesBeforeKey>
+<KeyNames>Byrne</KeyNames>
+<ProfessionalAffiliation>
+<Affiliation>The O'Brien Press Ltd</Affiliation>
+</ProfessionalAffiliation>
+</Contributor>
+<IllustrationsNote>2,Halftones, black and white</IllustrationsNote>
+<BASICMainSubject>LCO000000</BASICMainSubject>
+<BASICVersion>1.1</BASICVersion>
+<BICMainSubject>DQ</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.1</SubjectSchemeVersion>
+<SubjectCode>POE000000</SubjectCode>
+<SubjectHeadingText>POETRY / General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.1</SubjectSchemeVersion>
+<SubjectCode>BIO007000</SubjectCode>
+<SubjectHeadingText>BIOGRAPHY &amp; AUTOBIOGRAPHY / Literary</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>DCF</SubjectCode>
+<SubjectHeadingText>Poetry by individual poets</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>BGL</SubjectCode>
+<SubjectHeadingText>Biography: literary</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>DNT</SubjectCode>
+<SubjectHeadingText>Anthologies: general</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>DCF</SubjectCode>
+<SubjectHeadingText>Poetry by individual poets</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>DNBL</SubjectCode>
+<SubjectHeadingText>Biography: literary</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>DC23</SubjectSchemeVersion>
+<SubjectCode>828.809</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>T3.4</SubjectCode>
+<SubjectHeadingText>Anthologies, Essays, Letters &amp; Miscellaneous</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<OtherText>
+<TextTypeCode>02</TextTypeCode>
+<Text>Told through his own words, this essential introduction to Oscar Wilde's extraordinary life and work is accompanied by stimulating commentary and stylish design and illustration. For new readers and devotees alike.
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>More than a selection of the writings of Ireland's foremost cultural figure of the nineteenth century, it's a concise journey, using Oscar Wilde's own words, through the epic tale of his life and work.
+
+Dr Johnson said about another Irish writer, Oliver Goldsmith: `he touched nothing that he did not adorn.' So it was with Wilde, author of fairy tales, short stories, essays, poems long and short, biblical parables, a shocking novel and five plays, each more accomplished than the last. 
+
+With John Wyse Jackson's stimulating commentary, and stylish design and illustration by Emma Byrne, this fresh gathering of Oscar's words will interest and delight new readers and devotees alike.
+
+For many years after his death, Oscar Wilde was almost ignored in Ireland. More recently, however, his importance as a world figure has been acknowledged at home. This selection, from a Dublin publisher, is a landmark celebration of one of Ireland's greatest sons.  
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<Text>here's a book as brilliantly accomplished as the life of its gifted subject Oscar Wilde
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>John Wyse Jackson was born in Kilkenny in 1953, and educated in Dublin. His previous works on Oscar Wilde are Aristotle at Afternoon Tea: the Rare Oscar Wilde and Wilde about St Louis, an account of Oscar's two days in the American city in 1882. Other books, either solo or in collaboration, include Myles Before Myles: a Selection of the Earlier Writings of Flann O'Brien, James Joyce's Dubliners: An Annotated and Illustrated Edition, Phenolphthalein: A Fictional Quest for the Eighth Plot, John Stanislaus Joyce: The Life of James Joyce's Father, Flann O'Brien at War, We All Want to Change the World: A Life of John Lennon, Dublin: Poetry of Place and, with the Ulster artist Hector McDonnell, Ireland's Other Poetry: Anonymous to Zozimus, Ulster's Other Poetry and Dublin's Other Poetry.   An occasional contributor to the Sunday Times, New Statesman, Spectator etc., and to numerous Irish publications, John has written, lectured and broadcast on various matters in Ireland, Britain and the United States. For many years he was joint owner/manager of John Sandoe's Bookshop in Chelsea, London, before returning to Ireland in 2003 with his wife, Ruth, and their children. Currently he is generally to be found in Zozimus Bookshop (www.zozimusbookshop.com), with a large secondhand and antiquarian stock at 86 Main Street, Gorey, County Wexford, where he hosts a regular Ulysses study group and publishes the occasional book, usually of local interest.</Text>
+</OtherText>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9781847177537.jpg</MediaFileLink>
+</MediaFile>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>69692</NameCodeValue>
+<ImprintName>O'Brien Press Ltd</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>69692</NameCodeValue>
+<PublisherName>O'Brien Press Ltd</PublisherName>
+</Publisher>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20150302</PublicationDate>
+<CopyrightYear>2015</CopyrightYear>
+<YearFirstPublished>20150000</YearFirstPublished>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+<RelatedProduct>
+<RelationCode>13</RelationCode>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781847177292</IDValue>
+</ProductIdentifier>
+</RelatedProduct>
+</Product>
+<Product>
+<RecordReference>9780956620378</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9780956620378</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>New York Night</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Stephen Leather</PersonName>
+<PersonNameInverted>Leather, Stephen</PersonNameInverted>
+<NamesBeforeKey>Stephen</NamesBeforeKey>
+<KeyNames>Leather</KeyNames>
+</Contributor>
+<NumberOfPages>294</NumberOfPages>
+<IllustrationsNote>black &amp; white illustrations</IllustrationsNote>
+<BASICMainSubject>FIC024000</BASICMainSubject>
+<BICMainSubject>FM</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>FH</SubjectCode>
+<SubjectHeadingText>Thriller / suspense</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>FM</SubjectCode>
+<SubjectHeadingText>Fantasy</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>FH</SubjectCode>
+<SubjectHeadingText>Thriller / suspense fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>F2.2</SubjectCode>
+<SubjectHeadingText>Science Fiction &amp; Fantasy</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>FAN</SubjectCode>
+<SubjectHeadingText>AF:Fantasy</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>FAN</SubjectCode>
+<SubjectHeadingText>AF: Fantasy</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9780956620378.jpg</MediaFileLink>
+</MediaFile>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>242874</NameCodeValue>
+<ImprintName>Three Elephants</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>242874</NameCodeValue>
+<PublisherName>Three Elephants</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin 2</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20151121</PublicationDate>
+<Measure>
+<MeasureTypeCode>01</MeasureTypeCode>
+<Measurement>229</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>02</MeasureTypeCode>
+<Measurement>152</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>03</MeasureTypeCode>
+<Measurement>16</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>08</MeasureTypeCode>
+<Measurement>397</Measurement>
+<MeasureUnitCode>gr</MeasureUnitCode>
+</Measure>
+<SupplyDetail>
+<SupplierName>Ingrams</SupplierName>
+<SupplierRole>04</SupplierRole>
+<SupplyToCountry>US</SupplyToCountry>
+<ProductAvailability>20</ProductAvailability>
+<UnpricedItemType>04</UnpricedItemType>
+</SupplyDetail>
+</Product>
+</ONIXMessage>

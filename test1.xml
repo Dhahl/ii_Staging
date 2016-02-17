@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ONIXmessage SYSTEM "http://www.editeur.org/onix/2.1/short/onix-international.dtd">
+<ONIXmessage release="2.1">
+<Product>
+    <RecordReference>T855</RecordReference>
+    <NotificationType>05</NotificationType>
+    <RecordSourceType>03</RecordSourceType>
+    <RecordSourceIdentifier>
+      <RecordSourceIDType>01</RecordSourceIDType>
+      <IDTypeName>obrien.stisonbooks.com Book ID</IDTypeName>
+      <IDValue>694</IDValue>
+    </RecordSourceIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>02</ProductIDType>
+      <IDValue>1847171699</IDValue>
+    </ProductIdentifier>
+    <ProductIdentifier>
+      <ProductIDType>03</ProductIDType>
+      <IDValue>9781847171696</IDValue>
+    </ProductIdentifier>
+  </Product>
+</ONIXmessage>
+
+

@@ -1,0 +1,466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ONIXmessage SYSTEM "http://www.editeur.org/onix/2.1/short/onix-international.dtd">
+<ONIXmessage release="2.1">
+  <header>
+    <m174>The O'Brien Press Ltd</m174>
+    <m175>Ivan O'Brien</m175>
+    <m283>ivan@obrien.ie</m283>
+    <m182>20151023</m182>
+    <m184>eng</m184>
+    <m186>EUR</m186>
+    <m187>mm</m187>
+    <m188>gr</m188>
+    <m193>GEN</m193>
+  </header>
+  <product>
+    <a001>T1551</a001>
+    <a002>02</a002>
+    <productidentifier>
+      <b221>02</b221>
+      <b244>1847171907</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>03</b221>
+      <b244>9781847171900</b244>
+    </productidentifier>
+    <productidentifier>
+      <b221>15</b221>
+      <b244>9781847171900</b244>
+    </productidentifier>
+    <b012>BC</b012>
+    <n338/>
+    <title>
+      <b202>01</b202>
+      <b203>Spirit of the Titanic</b203>
+    </title>
+    <workidentifier>
+      <b201>01</b201>
+      <b233>www.obrien.ie Content ID</b233>
+      <b244>654</b244>
+    </workidentifier>
+    <contributor>
+      <b034>1</b034>
+      <b035>A01</b035>
+      <b036>Nicola Pierce</b036>
+      <b037>Pierce, Nicola</b037>
+      <b039>Nicola</b039>
+      <b040>Pierce</b040>
+      <personnameidentifier>
+        <b390>01</b390>
+        <b244>C446</b244>
+      </personnameidentifier>
+      <b044>&lt;p&gt;Tallaght-born Nicola Pierce is a writer, living in Drogheda.&lt;/p&gt;</b044>
+    </contributor>
+    <contributor>
+      <b034>2</b034>
+      <b035>A12</b035>
+      <b036>Emma Byrne</b036>
+      <b037>Byrne, Emma</b037>
+      <b039>Emma</b039>
+      <b040>Byrne</b040>
+      <personnameidentifier>
+        <b390>01</b390>
+        <b244>C332</b244>
+      </personnameidentifier>
+      <personnameidentifier>
+        <b390>16</b390>
+        <b244>0000000048538265</b244>
+      </personnameidentifier>
+      <professionalaffiliation>
+        <b046>The O'Brien Press Ltd</b046>
+      </professionalaffiliation>
+      <b044>&lt;p class="AuthorBlurb"&gt;&lt;strong&gt;Emma Byrne &lt;/strong&gt;is a graphic designer and artist. She is a graduate of Central Saint Martins School of Art and Design. She has won numerous awards for her design including The IDI (Irish Design Institute) Graduate Designer of the Year, the IDI Promotional Literature Award for her work on &lt;em&gt;Brown Morning&lt;/em&gt;, and a Children’s Books Ireland Bisto Merit Award for her work on &lt;em&gt;Something Beginning With P: New Poems from Irish Poets&lt;/em&gt;. She has illustrated many books, including &lt;em&gt;Best-Loved Oscar Wilde&lt;/em&gt;, &lt;em&gt;Best Loved Yeats&lt;/em&gt;, &lt;em&gt;The Most Beautiful Letter in the World&lt;/em&gt; by Karl O’Neill, a special edition of &lt;em&gt;Ulysses&lt;/em&gt; by James Joyce, and &lt;em&gt;A Terrible Beauty&lt;/em&gt; by Mairéad Ashe Fitzgerald. She lives in a thatched house in Co. Wexford.&lt;/p&gt;</b044>
+    </contributor>
+    <n386/>
+    <b061>240</b061>
+    <extent>
+      <b218>02</b218>
+      <b219>40000</b219>
+      <b220>02</b220>
+    </extent>
+    <illustrations>
+      <b256>01</b256>
+      <b257>20</b257>
+    </illustrations>
+    <b064>JUV016000</b064>
+    <b200>2</b200>
+    <b065>YFT</b065>
+    <b066>2.1</b066>
+    <subject>
+      <b067>10</b067>
+      <b069>JUV037000</b069>
+      <b070>JUVENILE FICTION / Science Fiction, Fantasy, Magic</b070>
+    </subject>
+    <subject>
+      <b067>12</b067>
+      <b068>2.1</b068>
+      <b069>YFH</b069>
+    </subject>
+    <subject>
+      <b067>23</b067>
+      <b069>T137</b069>
+      <b070>HONOUR AND DUTY/COURAGE/LOYALTY/HOPE</b070>
+    </subject>
+    <subject>
+      <b067>23</b067>
+      <b069>T136</b069>
+      <b070>COMING OF AGE/BEREAVEMENT AND DEATH/DISCRIMINATION</b070>
+    </subject>
+    <subject>
+      <b067>23</b067>
+      <b069>T123</b069>
+      <b070>SHIPBUILDING AND SOCIETY</b070>
+    </subject>
+    <subject>
+      <b067>23</b067>
+      <b069>T107</b069>
+      <b070>TITANIC</b070>
+    </subject>
+    <subject>
+      <b067>23</b067>
+      <b069>T1</b069>
+      <b070>Adventure</b070>
+    </subject>
+    <subject>
+      <b067>23</b067>
+      <b069>T2</b069>
+      <b070>Issues</b070>
+    </subject>
+    <subject>
+      <b067>23</b067>
+      <b069>T9</b069>
+      <b070>Family Relationships</b070>
+    </subject>
+    <subject>
+      <b067>23</b067>
+      <b069>T11</b069>
+      <b070>Personal Challenge</b070>
+    </subject>
+    <subject>
+      <b067>23</b067>
+      <b069>T12</b069>
+      <b070>Difference, prejudice, intolerance</b070>
+    </subject>
+    <subject>
+      <b067>23</b067>
+      <b069>T13</b069>
+      <b070>History</b070>
+    </subject>
+    <subject>
+      <b067>23</b067>
+      <b069>T14</b069>
+      <b070>Fantasy, Other worlds</b070>
+    </subject>
+    <subject>
+      <b067>23</b067>
+      <b069>20</b069>
+      <b070>Historical Fiction</b070>
+    </subject>
+    <subject>
+      <b067>23</b067>
+      <b069>23</b069>
+      <b070>Children's fiction</b070>
+    </subject>
+    <subject>
+      <b067>21</b067>
+      <b069>D3N79</b069>
+    </subject>
+    <b073>02</b073>
+    <audience>
+      <b204>02</b204>
+      <b205>O'Brien Reading Age Flags</b205>
+      <b206>Blue</b206>
+    </audience>
+    <audiencerange>
+      <b074>17</b074>
+      <b075>03</b075>
+      <b076>9</b076>
+    </audiencerange>
+    <audiencerange>
+      <b074>18</b074>
+      <b075>03</b075>
+      <b076>9</b076>
+    </audiencerange>
+    <othertext>
+      <d102>01</d102>
+      <d103>02</d103>
+      <d104>&lt;p&gt;Fifteen-year-old Samuel Scott died while building the Titanic. As the ship sails to her doom, his ghost moves restlessly alongside the passengers and crew: Frederick Fleet: the young look-out who spotted the iceberg and who survived in a life-boat with (the unsinkable) Molly Brown; Howard Hartley Wallace: the heroic band-leader who played ragtime music as the freezing waters lapped at his feet; Harold Bride: the junior radio operator whose messages echoed on, long after the ship had disappeared to its icy grave …&lt;/p&gt;
+</d104>
+    </othertext>
+    <othertext>
+      <d102>02</d102>
+      <d103>02</d103>
+      <d104>&lt;p&gt;The ghost of fifteen-year-old Samuel Scott moves restlessly aboard the Titanic as she sails to her doom in 1912. An eyewitness to the final days in the lives of rich and poor, crew and passengers, this is Samuel’s story …&lt;/p&gt;
+</d104>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;an excellently researched story … you will be captivated&lt;/p&gt;
+</d104>
+      <d107>Mad About Books</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'a ghost story with a twist'&lt;/p&gt;
+</d104>
+      <d107>Sunday Independent</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'It is a tale which reinforces the idea that Titanic’s wider story is about people ... brings home the terror, sadness and tragedy of the ship’s last moments'&lt;/p&gt;
+</d104>
+      <d107>Titanic Stories</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'new and beautiful children’s novel ... The children were fascinated, I never saw so many children so engaged with an author ... the children were captivated by the book’s content and Nicola’s delivery.'&lt;/p&gt;
+</d104>
+      <d107>Nationalist &amp; Munster Advertiser</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'Little did I know that this book would be gripping, exciting and unimaginably shattering. Towards the end, things picked up a lot, and I realised that this would just get better and better and better.'&lt;/p&gt;
+</d104>
+      <d107>Guardian’s Children’s Books</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'Unique ... Compelling ...even though we all know the ending the narrative is utterly engrossing ... I admit I laughed, I cried and I stayed up way past my usual bedtime in order to finish this poignant and beautifully written book. This is one not to be missed.'&lt;/p&gt;
+</d104>
+      <d107>Lisa Reads</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'captivating'&lt;/p&gt;
+</d104>
+      <d107>New Ross Standard</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'we guarantee you will not be able to put it down'&lt;/p&gt;
+</d104>
+      <d107>Nationalist &amp; Munster Advertiser</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'an excellent dramatic adventure story ... this is historical fiction at its best'&lt;/p&gt;
+</d104>
+      <d107>English 4-11</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'captivating'&lt;/p&gt;
+</d104>
+      <d107>Leinster Leader</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'I was captivated by the writing and I couldn’t put it down ... The book is beautifully produced - the cover making it look like an artefact from the time with delicate illustration and patterned design by Dave Hopkins while Emma Byrne reproduces tickets, menus and telegrams throughout the book.'&lt;/p&gt;
+</d104>
+      <d107>NI4Kids</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'It is obviously a challenge to be able to make vivid and compelling a story whose ending we all know but Pierce manages this ... writing is entirely captivating, the detail fascinating and the terror real.'&lt;/p&gt;
+</d104>
+      <d107>NI4Kids</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'an impressive debut ... he world of the yard is well-realised and the stylistic leap of having this character die within the novel’s opening pages is brave and clever'&lt;/p&gt;
+</d104>
+      <d107>NI4Kids</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'It teems with historical characters and is the result of prodigious research into their final fates.'&lt;/p&gt;
+</d104>
+      <d107>Verbal Magazine</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'A stunning debut from a talented local ... beautifully written, exciting book'&lt;/p&gt;
+</d104>
+      <d107>Verbal Magazine</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'I certainly shed a tear at the end ... Beautifully handled...beautifully written ...I enjoyed it very, very much.'&lt;/p&gt;
+</d104>
+      <d107>BBC Radio Ulster’s Arts Extra</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'I'm particularly excited to read Spirit of the Titanic, as I'm really interested in the Titanic and everything to do with it.'&lt;/p&gt;
+</d104>
+      <d107>Wondrous ReadsBBC Radio Ulster’s Arts Extra</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'I would not mind betting that readers in Northern Ireland having read this story, will make their way to Belfast City Cemetery to see the unmarked grave of one Samuel Joseph Scott, which is part of the official tour. A ghostly Sam is on the cover of ‘his’ story.'&lt;/p&gt;
+</d104>
+      <d107>Books for Keeps</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'this familiar story does not fail to grip the reader ... The notes (at the end) make the story even more alive, as they tell of the lives, after the rescue, of several of the real life characters in the story.'&lt;/p&gt;
+</d104>
+      <d107>Books for Keeps</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'This breathtaking book takes you on the deck of the Titanic with its amazing descriptive language describing every scene from top to bottom ... It may make you shed a tear or giggle a little but either way you are sure to thoroughly enjoy the book ... Every chapter gets more and more exciting and as soon as you start reading your eyes will immediately be glued to the book ... I would recommend this book to anybody who enjoys reading a spooky, emotional book and is interested in the fascinating events of 1912. I would rate this book 10/10.'&lt;/p&gt;
+</d104>
+      <d107>Guardian Children’s Books Online</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'Pierce delivers some masterful narrative which will hold children aged 10 and upwards enthralled, as we were, regardless of our prior knowledge of the ship's fate.'&lt;/p&gt;
+</d104>
+      <d107>Evening Echo</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'Pierce immerses us in the hope, despair and life lessons of Titanic's ill-fated voyage.'&lt;/p&gt;
+</d104>
+      <d107>Book Fest</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'intriguing stuff'&lt;/p&gt;
+</d104>
+      <d107>Belfast Telegraph</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'enthralling'&lt;/p&gt;
+</d104>
+      <d107>Belfast Telegraph’s Weekend Magazine</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'While primarily a book written for children, Spirit of the Titanic is the type of book that can be enjoyed by readers of all ages, especially Titanic fans. A unique take on the enduring tale of the Titanic, this beautifully written story managed to captivate me from start to finish and I’ve since passed it on to my young nephews. Highly recommended!'&lt;/p&gt;
+</d104>
+      <d107>dailyupdate.ie</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'a unique angle on the enduring Titanic story ... a valuable addition to a school Titanic project or for any competent reader who loves historical fiction in general and the Titanic in particular'&lt;/p&gt;
+</d104>
+      <d107>Gill Robbins</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'a stocking filler must this Christmas ... captivating'&lt;/p&gt;
+</d104>
+      <d107>Sunday Business Post</d107>
+    </othertext>
+    <othertext>
+      <d102>08</d102>
+      <d104>&lt;p&gt;'beautifully produced'&lt;/p&gt;
+</d104>
+      <d107>North West Telegraph</d107>
+    </othertext>
+    <mediafile>
+      <f114>06</f114>
+      <f115>03</f115>
+      <f116>01</f116>
+      <f117>https://obrien.stisonbooks.com/images/books/native/9781847171900.jpg</f117>
+    </mediafile>
+    <mediafile>
+      <f114>08</f114>
+      <f115>03</f115>
+      <f116>01</f116>
+      <f117>https://obrien.stisonbooks.com/asset/1243/native/NicolaPierce.jpg</f117>
+    </mediafile>
+    <mediafile>
+      <f114>08</f114>
+      <f115>03</f115>
+      <f116>01</f116>
+      <f117>https://obrien.stisonbooks.com/asset/14822/native/EmmaByrne.jpg</f117>
+    </mediafile>
+    <imprint>
+      <b241>02</b241>
+      <b242>Proprietary</b242>
+      <b243>OBP</b243>
+      <b079>The O'Brien Press</b079>
+    </imprint>
+    <publisher>
+      <b291>01</b291>
+      <b081>The O'Brien Press</b081>
+    </publisher>
+    <b209>Dublin</b209>
+    <b083>IE</b083>
+    <b394>04</b394>
+    <b003>20110411</b003>
+    <b087>2011</b087>
+    <b088>2011</b088>
+    <salesrights>
+      <b089>01</b089>
+      <b388>ROW</b388>
+    </salesrights>
+    <salesrights>
+      <b089>03</b089>
+      <b090>CA</b090>
+    </salesrights>
+    <measure>
+      <c093>01</c093>
+      <c094>196</c094>
+      <c095>mm</c095>
+    </measure>
+    <measure>
+      <c093>02</c093>
+      <c094>130</c094>
+      <c095>mm</c095>
+    </measure>
+    <measure>
+      <c093>03</c093>
+      <c094>14</c094>
+      <c095>mm</c095>
+    </measure>
+    <measure>
+      <c093>08</c093>
+      <c094>205</c094>
+      <c095>gr</c095>
+    </measure>
+    <relatedproduct>
+      <h208>23</h208>
+      <productidentifier>
+        <b221>15</b221>
+        <b244>9780862785901</b244>
+      </productidentifier>
+    </relatedproduct>
+    <supplydetail>
+      <j137>Gill and Macmillan Distribution</j137>
+      <j272>sales@gillmacmillan.ie</j272>
+      <j397>ROW</j397>
+      <j140>CA US</j140>
+      <j396>20</j396>
+      <j145>72</j145>
+      <price>
+        <j148>01</j148>
+        <discountcoded>
+          <j363>01</j363>
+          <j378>AGILL001</j378>
+          <j364>AGILL001</j364>
+        </discountcoded>
+        <j151>8.99</j151>
+        <j152>EUR</j152>
+      </price>
+      <price>
+        <j148>02</j148>
+        <discountcoded>
+          <j363>01</j363>
+          <j378>AGILL001</j378>
+          <j364>AGILL001</j364>
+        </discountcoded>
+        <j151>6.99</j151>
+        <j152>GBP</j152>
+        <j153>Z</j153>
+        <j154>0</j154>
+        <j155>6.99</j155>
+        <j156>0.00</j156>
+      </price>
+    </supplydetail>
+  </product>
+</ONIXmessage>

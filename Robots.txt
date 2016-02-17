@@ -1,0 +1,7 @@
+User-agent: Googlebot
+
+Disallow: /forum/
+
+User-agent: Googlebot-Image
+
+Disallow: /forum/

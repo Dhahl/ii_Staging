@@ -1,0 +1,3627 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE ONIXMessage SYSTEM "http://www.editeur.org/onix/2.1/reference/onix-international.dtd">
+<ONIXMessage>
+<Header>
+<FromEANNumber>5013546111661</FromEANNumber>
+<FromCompany>NielsenBookData</FromCompany>
+<FromPerson>Angela Kendall</FromPerson>
+<FromEmail>angela.kendall@nielsen.com</FromEmail>
+<SentDate>20160105</SentDate>
+<DefaultLanguageOfText>eng</DefaultLanguageOfText>
+</Header>
+<Product>
+<RecordReference>9780717169238</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9780717169238</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Oasis</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Eilis Barrett</PersonName>
+<PersonNameInverted>Barrett, Eilis</PersonNameInverted>
+<NamesBeforeKey>Eilis</NamesBeforeKey>
+<KeyNames>Barrett</KeyNames>
+</Contributor>
+<NumberOfPages>224</NumberOfPages>
+<BASICMainSubject>JNF000000</BASICMainSubject>
+<BICMainSubject>YFG</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>YFG</SubjectCode>
+<SubjectHeadingText>Children's / Teenage fiction: Science fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>DC23</SubjectSchemeVersion>
+<SubjectCode>823.92</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>Y2.2</SubjectCode>
+<SubjectHeadingText>Young Adult Fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>F13+</SubjectCode>
+<SubjectHeadingText>CHILD:Fiction 13+</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>SCI</SubjectCode>
+<SubjectHeadingText>CHILD:Science Fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>FT</SubjectCode>
+<SubjectHeadingText>CHILD: Teenage Fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>YSF</SubjectCode>
+<SubjectHeadingText>CHILD: Science Fiction</SubjectHeadingText>
+</Subject>
+<AudienceCode>03</AudienceCode>
+<OtherText>
+<TextTypeCode>02</TextTypeCode>
+<Text>Oasis is a thrilling coming-of-age adventure set in a dystopian universe where personal freedom is almost non-existent and human values like friendship, love and creativity have all but been extinguished.</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>At the age of 7, Quincy Emerson was abandoned by her parents in The Dorms, the brutal societal rehabilitation centre developed by the government of Oasis, a fortress city built from the ruins of a fallen earth. Amidst the brutality and regimentation of her life as a member of Oasis's underclass, she seeks comfort with Aaron, the boy she loves. But when her safety is threatened by those who control the city, she's forced to question everything she thought she knew - including Aaron. Escaping Oasis, she finds a group of outcasts-turned-freedom-fighters and their leader Kole, a boy who sees more in her than she can see in herself, and under whose guidance she begins to learn the true meaning of freedom. Though finally free of Oasis, Quincy cannot escape her past. The war she was told ended years ago is still raging on, concealed from those within Oasis by a blaze of lies and propaganda. Soon she finds herself in the middle of the action, fighting for the city, for her life and the lives of all those she's grown to love...Oasis is a thrilling coming-of-age adventure set in a dystopian universe where personal freedom is almost non-existent and human values like friendship, love and creativity have all but been extinguished.
+Fast-paced, nuanced and sweeping in its vision, Oasis is an original and timely young adult epic.</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>Eilis Barret is 16 and hails from Galway, on Ireland's west coast, where she shares a home with her mother, three brothers and her dog Rosie. Passionate about all things literary, she can usually be found reading or writing stories filled with action, adventure and true love. Oasis is her debut novel.</Text>
+</OtherText>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>38541</NameCodeValue>
+<ImprintName>Gill &amp; Macmillan Ltd</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>38541</NameCodeValue>
+<PublisherName>Gill &amp; Macmillan Ltd</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160401</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+<Measure>
+<MeasureTypeCode>01</MeasureTypeCode>
+<Measurement>196</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>02</MeasureTypeCode>
+<Measurement>127</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>08</MeasureTypeCode>
+<Measurement>500</Measurement>
+<MeasureUnitCode>gr</MeasureUnitCode>
+</Measure>
+<SupplyDetail>
+<SupplierName>Bertrams</SupplierName>
+<SupplierRole>04</SupplierRole>
+<SupplyToCountry>GB</SupplyToCountry>
+<ProductAvailability>20</ProductAvailability>
+<UnpricedItemType>04</UnpricedItemType>
+</SupplyDetail>
+<SupplyDetail>
+<SupplierName>Gardners</SupplierName>
+<SupplierRole>04</SupplierRole>
+<SupplyToCountry>GB</SupplyToCountry>
+<ProductAvailability>20</ProductAvailability>
+<UnpricedItemType>04</UnpricedItemType>
+</SupplyDetail>
+</Product>
+<Product>
+<RecordReference>9781847178237</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781847178237</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<ProductFormDetail>B105</ProductFormDetail>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>To School Through the Fields</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Alice Taylor</PersonName>
+<PersonNameInverted>Taylor, Alice</PersonNameInverted>
+<NamesBeforeKey>Alice</NamesBeforeKey>
+<KeyNames>Taylor</KeyNames>
+</Contributor>
+<EditionTypeCode>REV</EditionTypeCode>
+<EditionNumber>2</EditionNumber>
+<EditionStatement>2nd Revised edition</EditionStatement>
+<NumberOfPages>208</NumberOfPages>
+<IllustrationsNote>65 black &amp; white halftones</IllustrationsNote>
+<BASICMainSubject>BIO026000</BASICMainSubject>
+<BASICVersion>BISAC 2013</BASICVersion>
+<BICMainSubject>BM</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>DNC</SubjectCode>
+<SubjectHeadingText>Memoirs</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>Z99.9</SubjectCode>
+<SubjectHeadingText>Unclassifiable: no BIC</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>BIO</SubjectCode>
+<SubjectHeadingText>ANF:Biography</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>BIO</SubjectCode>
+<SubjectHeadingText>ANF: Biography</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<OtherText>
+<TextTypeCode>02</TextTypeCode>
+<Text>Alice Taylor's classic account of growing up in the Irish countryside, the biggest selling book ever published in Ireland. Beautifully illustrated throughout with a new introduction by the author.</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>'A delightful evocation of Irishness and of the author's deep-rooted love of the very fields of home' Publishers Weekly Alice Taylor's classic account of growing up in the Irish countryside, the biggest selling book ever published in Ireland. If ever a voice has captured the colors, the rhythms, the rich, bittersweet emotions of a time gone by, it is Alice Taylor's. Her tales of childhood in rural Ireland hark back to a timeless past, to a world now lost, but ever and fondly remembered. The colorful characters and joyous moments she offers have made To School Through the Fields an Irish phenomenon, and have made Alice herself the most beloved author in all of the Emerald Isle. A must-have for fans of Alice Taylor. Illustrated throughout with evocative photographs, with a new introduction by the author, looking back at her breakthrough book twenty five years later.</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<Text>A delightful evocation of Irishness and of the author's deep-rooted love of "the very fields of home" ... with its rituals and local characters Publishers Weekly One of the most richly evocative and moving portraits of childhood ever written. Boston Globe Ireland's Laurie Lee ... a chronicler of fading village life and rural rituals The Observer</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>Alice Taylor lives in the village of Innishannon in County Cork, in a house attached to the local supermarket and post office. Since her eldest son has taken over responsibility for the shop, she has been able to devote more time to her writing.   Alice Taylor worked as a telephonist in Killarney and Bandon. When she married, she moved to Innishannon where she ran a guesthouse at first, then the supermarket and post office. She and her husband, Gabriel Murphy, who sadly passed away in 2005, had four sons and one daughter. In 1984 she edited and published the first issue of Candlelight, a local magazine which has since appeared annually. In 1986 she published an illustrated collection of her own verse.   To School Through the Fields was published in May 1988. It was an immediate success, launching Alice on a series of signing sessions, talks and readings the length and breadth of Ireland. Her first radio interview, forty two minutes long on RTE Radio's Gay Byrne Show, was the most talked about radio programme of 1988, and her first television interview, of the same length, was the highlight of the year on RTE television's Late Late Show. Since then she has appeared on radio programmes such as Woman's Hour, Midweek and The Gloria Hunniford Show, and she has been the subject of major profiles in the Observer and the Mail on Sunday.   To School Through the Fields quickly became the biggest selling book ever published in Ireland, and her sequels, Quench the Lamp, The Village, Country Days and The Night Before Christmas, were also outstandingly successful. Since their initial publication these books of memoirs have also been translated and sold internationally.   In 1997 her first novel, The Woman of the House, was an immediate bestseller in Ireland, topping the paperback fiction lists for many weeks. A moving story of land, love and family, it was followed by a sequel, Across the River in 2000, which was also a bestseller.   One of Ireland's most popular authors, she has continued writing fiction, non-fiction and poetry since.</Text>
+</OtherText>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9781847178237.jpg</MediaFileLink>
+</MediaFile>
+<ProductWebsite>
+<WebsiteRole>33</WebsiteRole>
+<ProductWebsiteLink>http://www.gillmacmillan.ie</ProductWebsiteLink>
+</ProductWebsite>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>131474</NameCodeValue>
+<ImprintName>Brandon</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>69692</NameCodeValue>
+<PublisherName>O'Brien Press Ltd</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160401</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+<Measure>
+<MeasureTypeCode>01</MeasureTypeCode>
+<Measurement>196</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>02</MeasureTypeCode>
+<Measurement>130</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<RelatedProduct>
+<RelationCode>03</RelationCode>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9780863224218</IDValue>
+</ProductIdentifier>
+</RelatedProduct>
+</Product>
+<Product>
+<RecordReference>9781847178367</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781847178367</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Ireland's Wild Atlantic Way</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Carsten Krieger</PersonName>
+<PersonNameInverted>Krieger, Carsten</PersonNameInverted>
+<NamesBeforeKey>Carsten</NamesBeforeKey>
+<KeyNames>Krieger</KeyNames>
+</Contributor>
+<Contributor>
+<SequenceNumber>2</SequenceNumber>
+<ContributorRole>B06</ContributorRole>
+<LanguageCode>eng</LanguageCode>
+<PersonName>Ina Krieger</PersonName>
+<PersonNameInverted>Krieger, Ina</PersonNameInverted>
+<NamesBeforeKey>Ina</NamesBeforeKey>
+<KeyNames>Krieger</KeyNames>
+</Contributor>
+<Language>
+<LanguageRole>01</LanguageRole>
+<LanguageCode>ger</LanguageCode>
+</Language>
+<Language>
+<LanguageRole>02</LanguageRole>
+<LanguageCode>eng</LanguageCode>
+</Language>
+<NumberOfPages>160</NumberOfPages>
+<BASICMainSubject>TRV000000</BASICMainSubject>
+<BASICVersion>BISAC 2013</BASICVersion>
+<BICMainSubject>WTH</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>PHO000000</SubjectCode>
+<SubjectHeadingText>PHOTOGRAPHY / General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>AJ</SubjectCode>
+<SubjectHeadingText>Photography &amp; photographs</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>WTH</SubjectCode>
+<SubjectHeadingText>Travel &amp; holiday guides</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>AJ</SubjectCode>
+<SubjectHeadingText>Photography &amp; photographs</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>Z99.9</SubjectCode>
+<SubjectHeadingText>Unclassifiable: no BIC</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>TRG</SubjectCode>
+<SubjectHeadingText>ANF:Travel Guides</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>TRG</SubjectCode>
+<SubjectHeadingText>ANF: Travel Guides</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<OtherText>
+<TextTypeCode>02</TextTypeCode>
+<Text>Take a photographic journey along the Wild Atlantic Way with this sumptuous book of 200 photographs, maps, and quotations the west coast of Ireland. In German.</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>Ireland's Wild Atlantic Way was launched in 2013. This long-distance touring route follows Ireland's west coast from Donegal in the North to Cork in the South and encompasses some of Ireland's most spectacular scenery. This book is the perfect accompaniment to the route. This beautiful book takes the reader on a photographic journey down Ireland's west coast from Donegal to Cork. It showcases the attractions of the west coast: dramatic views, abundant nature and wildlife, lighthouses, harbours and quaint seaside villages, as well as heritage, history and people. Contains maps for each section of the Wild Atlantic Way, and follows Bord Failte's divisions of the route: Donegal-Mayo, Mayo-Clare, Clare-Kerry, Kerry to Cork. 'a sumptuous book in which the magnificent colour photographs speak for themselves' Books Ireland on Ireland's Coast</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<Text>photographic tour-de-force ... wow is the only word -- irishpost.co.uk beautiful, vibrant and breathtaking ... will make you want to take off immediately -- Ballyfermot, Lucan, Tallaght, Clondalkin Echo photos that will make you gasp at the west all over again -- independent.ie you can tuck yourself up with Ireland's Wild Atlantic Way by Carsten Krieger ... spectacular -- Image Magazine stunning -- Donegal News, Derry People so beautiful ... you'll want to hit the road immediately -- Sunday Independent stunning ... a delightful gift for anyone thinking of taking the journey or indeed a wonderful token to remember it by -- Evening Echo</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>Carsten Krieger has made Ireland his home. His unique images of the Irish landscape are highly acclaimed and he is the author of several books of landscape photography. His photographs have also been published in magazines and calendars and he also exhibits in Ireland and abroad on a regular basis.</Text>
+</OtherText>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9781847178367.jpg</MediaFileLink>
+</MediaFile>
+<ProductWebsite>
+<WebsiteRole>33</WebsiteRole>
+<ProductWebsiteLink>http://www.gillmacmillan.ie</ProductWebsiteLink>
+</ProductWebsite>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>69692</NameCodeValue>
+<ImprintName>O'Brien Press Ltd</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>69692</NameCodeValue>
+<PublisherName>O'Brien Press Ltd</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160401</PublicationDate>
+<CopyrightYear>2015</CopyrightYear>
+<YearFirstPublished>2015</YearFirstPublished>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+<Measure>
+<MeasureTypeCode>01</MeasureTypeCode>
+<Measurement>260</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>02</MeasureTypeCode>
+<Measurement>198</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>03</MeasureTypeCode>
+<Measurement>12</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>08</MeasureTypeCode>
+<Measurement>634</Measurement>
+<MeasureUnitCode>gr</MeasureUnitCode>
+</Measure>
+</Product>
+<Product>
+<RecordReference>9781847178404</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781847178404</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<ProductFormDetail>B105</ProductFormDetail>
+<Series>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Ross O'Carroll Kelly</TitleText>
+</Title>
+</Series>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Ross O'Carroll-Kelly, the Miseducation Years</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Ross O'Carroll-Kelly</PersonName>
+<PersonNameInverted>O'Carroll-Kelly, Ross</PersonNameInverted>
+<NamesBeforeKey>Ross</NamesBeforeKey>
+<KeyNames>O'Carroll-Kelly</KeyNames>
+</Contributor>
+<Contributor>
+<SequenceNumber>2</SequenceNumber>
+<ContributorRole>A02</ContributorRole>
+<PersonName>Paul Howard</PersonName>
+<PersonNameInverted>Howard, Paul</PersonNameInverted>
+<NamesBeforeKey>Paul</NamesBeforeKey>
+<KeyNames>Howard</KeyNames>
+<PersonDate>
+<PersonDateRole>007</PersonDateRole>
+<DateFormat>05</DateFormat>
+<Date>1967</Date>
+</PersonDate>
+</Contributor>
+<Contributor>
+<SequenceNumber>3</SequenceNumber>
+<ContributorRole>A12</ContributorRole>
+<PersonName>Alan Clarke</PersonName>
+<PersonNameInverted>Clarke, Alan</PersonNameInverted>
+<NamesBeforeKey>Alan</NamesBeforeKey>
+<KeyNames>Clarke</KeyNames>
+</Contributor>
+<EditionTypeCode>REV</EditionTypeCode>
+<EditionNumber>2</EditionNumber>
+<EditionStatement>With new introduction by the author</EditionStatement>
+<NumberOfPages>256</NumberOfPages>
+<IllustrationsNote>23 black &amp; white illustrations</IllustrationsNote>
+<BASICMainSubject>FIC000000</BASICMainSubject>
+<BASICVersion>BISAC 2013</BASICVersion>
+<BICMainSubject>FA</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>FBA</SubjectCode>
+<SubjectHeadingText>Modern &amp; contemporary fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>F1.1</SubjectCode>
+<SubjectHeadingText>General &amp; Literary Fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>GEN</SubjectCode>
+<SubjectHeadingText>AF:General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>GNR</SubjectCode>
+<SubjectHeadingText>AF: General</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<OtherText>
+<TextTypeCode>02</TextTypeCode>
+<Text>'So there I was, roysh, putting the 'in' in 'in crowd' ... But being a schools rugby legend has its downsides.' This is where it all began: the formation of the phenomenon that is Ross O'Carroll-Kelly.    With a new introduction by Paul Howard, Ross's representative on, loike, earth?</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>So there I was, roysh, putting the 'in' in 'in crowd', hanging out, pick of the babes, bills from the old pair to fund the lifestyle I, like, totally deserve. But being a schools rugby legend has its downsides, roysh, like all the total knobs wanting to chill in your, like, reflected glory, and the bunny-boilers who decide they want to be with me and won't take, like, no for an answer. And we're talking totally here. Basically, it may look like a champagne bath with, like, Nell McAndrew, with, like, no clothes and everything, but I can tell you, roysh, those focking bubbles can burst. And when they do ...OH MY GOD! Ross O'Carroll-Kelly is all meat and no preservatives, roysh, at least, that's what it says in the can in, like, one particular south Dublin girls' school, which shall remain nameless, roysh, basically to protect the names of the guilty. You know who you are. With a new introduction by Paul Howard, Ross's representative on, loike, earth?</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<Text>I cannot resist picking him up, yet, more than any other man, he sets my teeth on edge. Our rendezvous every Sunday morning is beset with mixed emotions, yet a week is too long apart. His warped charm leaves me simultaneously seething and smirking... Brace yourselves for the ride. -- Irish Examiner Devious and amusing... remarkably close to reality. -- Irish Times In Ross, Paul Howard has created a marvel. Every detail of the life of this buffoon has been gleaned from the terraces of rugby clubs in Dublin's southside, from coffee shops in the 'burbs and of course the assembly halls of schools from Blackrock to Mount Anville... It's Bridget Jones meets Adrian Mole meets Dublin Four. A potent mix, superbly executed by Howard. -- Sunday Tribune</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>Paul Howard helps Ross O'Carroll-Kelly to write his autobiographical series, largely because Ross can't really write, roysh? Find out more at rossocarrollkelly.com.   He is also the author of the bestselling prison expose, The Joy, and co-author of Celtic Warrior, the autobiography of boxer Steve Collins.   A former Sports Journalist of the Year, Paul covered the World Cup in Japan and Korea in 2002, and the rugby World Cup in Australia in 2003. His account of the Irish soccer squad and the notorious drama in Saipan, The Gaffers: Mick McCarthy, Roy Keane and the Team they Built, was a bestseller.   Paul has also written several massively popular plays and has won the popular fiction prize at the Irish Book Awards three times for books in the Ross O'Carroll-Kelly series.</Text>
+</OtherText>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9781847178404.jpg</MediaFileLink>
+</MediaFile>
+<ProductWebsite>
+<WebsiteRole>33</WebsiteRole>
+<ProductWebsiteLink>http://www.gillmacmillan.ie</ProductWebsiteLink>
+</ProductWebsite>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>69692</NameCodeValue>
+<ImprintName>O'Brien Press Ltd</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>69692</NameCodeValue>
+<PublisherName>O'Brien Press Ltd</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160401</PublicationDate>
+<CopyrightYear>2016</CopyrightYear>
+<YearFirstPublished>2004</YearFirstPublished>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+<Measure>
+<MeasureTypeCode>01</MeasureTypeCode>
+<Measurement>196</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>02</MeasureTypeCode>
+<Measurement>130</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>03</MeasureTypeCode>
+<Measurement>16</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<RelatedProduct>
+<RelationCode>03</RelationCode>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9780862788520</IDValue>
+</ProductIdentifier>
+</RelatedProduct>
+</Product>
+<Product>
+<RecordReference>9781848405127</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781848405127</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<ProductFormDetail>B105</ProductFormDetail>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>How the Irish Won the West</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Myles Dungan</PersonName>
+<PersonNameInverted>Dungan, Myles</PersonNameInverted>
+<NamesBeforeKey>Myles</NamesBeforeKey>
+<KeyNames>Dungan</KeyNames>
+</Contributor>
+<EditionTypeCode>REV</EditionTypeCode>
+<EditionStatement>Revised edition</EditionStatement>
+<BASICMainSubject>HIS038000</BASICMainSubject>
+<BASICVersion>BISAC 2013</BASICVersion>
+<BICMainSubject>HBJK</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>HIS037030</SubjectCode>
+<SubjectHeadingText>HISTORY / Modern / General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>HIS018000</SubjectCode>
+<SubjectHeadingText>HISTORY / Europe / Ireland</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>HBLL</SubjectCode>
+<SubjectHeadingText>Modern history to 20th century: c 1700 to c 1900</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>HBJD1</SubjectCode>
+<SubjectHeadingText>British &amp; Irish history</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>13</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>1KBBW</SubjectCode>
+<SubjectHeadingText>Western &amp; Pacific Coast states</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>13</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>1DBR</SubjectCode>
+<SubjectHeadingText>Ireland</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>NHK</SubjectCode>
+<SubjectHeadingText>History of the Americas</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>NHD</SubjectCode>
+<SubjectHeadingText>European history</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>96</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>3M</SubjectCode>
+<SubjectHeadingText>c 1500 onwards to present day</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>94</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>1KBB-US-W</SubjectCode>
+<SubjectHeadingText>US West</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>94</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>1DDR</SubjectCode>
+<SubjectHeadingText>Ireland</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>DC23</SubjectSchemeVersion>
+<SubjectCode>978.0049162</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>T5.2</SubjectCode>
+<SubjectHeadingText>Regional History</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>HIS</SubjectCode>
+<SubjectHeadingText>ANF:History</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>HIS</SubjectCode>
+<SubjectHeadingText>ANF: History</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>50982</NameCodeValue>
+<ImprintName>New Island Books</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>50982</NameCodeValue>
+<PublisherName>New Island Books</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160331</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsCountry>GB IE</RightsCountry>
+</SalesRights>
+<SupplyDetail>
+<SupplierName>Argosy</SupplierName>
+<SupplierRole>04</SupplierRole>
+<SupplyToCountry>GB</SupplyToCountry>
+<ProductAvailability>20</ProductAvailability>
+<UnpricedItemType>04</UnpricedItemType>
+</SupplyDetail>
+</Product>
+<Product>
+<RecordReference>9781444743647</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781444743647</IDValue>
+</ProductIdentifier>
+<ProductForm>DG</ProductForm>
+<EpubType>029</EpubType>
+<EpubFormatDescription>EPUB format</EpubFormatDescription>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>The Great and the Good</TitleText>
+<TitlePrefix>The</TitlePrefix>
+<TitleWithoutPrefix>Great and the Good</TitleWithoutPrefix>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>John Giles</PersonName>
+<PersonNameInverted>Giles, John</PersonNameInverted>
+<NamesBeforeKey>John</NamesBeforeKey>
+<KeyNames>Giles</KeyNames>
+</Contributor>
+<NumberOfPages>320</NumberOfPages>
+<BICMainSubject>WSJA</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>WSBX</SubjectCode>
+<SubjectHeadingText>History of sport</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>SFBC</SubjectCode>
+<SubjectHeadingText>Football (Soccer, Association football)</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>SCX</SubjectCode>
+<SubjectHeadingText>History of sport</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>DC23</SubjectSchemeVersion>
+<SubjectCode>796.33409045</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>T15.1</SubjectCode>
+<SubjectHeadingText>Ball Games: Field &amp; Outdoor</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9781444743647.jpg</MediaFileLink>
+</MediaFile>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>147498</NameCodeValue>
+<ImprintName>Hodder Headline Ireland</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>147498</NameCodeValue>
+<PublisherName>Hodder Headline Ireland</PublisherName>
+</Publisher>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<AnnouncementDate>20121018</AnnouncementDate>
+<PublicationDate>20121018</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsCountry>GB AU CA IE NZ ZA US AD AE AF AG AI AM AO AQ AR AS AT AW AX AZ BA BB BD BE BF BG BH BI BJ BL BM BN BO BR BS BT BV BW BY BZ CC CD CF CG CH CI CK CL CM CN CO CR CU CV CX CY CZ DE DJ DK DM DO DZ EC EE EG EH ER ES ET FI FJ FK FM FO FR GA GD GE GF GH GI GL GM GN GP GQ GR GS GT GU GW GY HK HM HN HR HT HU ID IL IN IO IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KY KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD MF MG MH MK ML MM MN MO MP MQ MR MS MT MU MV MW MX MY MZ NA NC NE NF NG NI NL NO NP NR NU OM PA PE PG PH PK PL PM PN PR PT PW PY QA RE RO RU RW SA SB SC SD SE SG SH SI SJ SK SL SM SN SO SR ST SV SY SZ TC TD TF TG TH TJ TK TM TN TO TR TT TV TW TZ UA UG UM UY UZ VA VC VE VG VI VN VU WF WS YE YT ZM ZW</RightsCountry>
+</SalesRights>
+<RelatedProduct>
+<RelationCode>13</RelationCode>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781444743630</IDValue>
+</ProductIdentifier>
+</RelatedProduct>
+</Product>
+<Product>
+<RecordReference>9781848271920</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781848271920</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>03</ProductIDType>
+<IDValue>9781848271920</IDValue>
+</ProductIdentifier>
+<ProductForm>DG</ProductForm>
+<ProductContentType>10</ProductContentType>
+<EpubType>029</EpubType>
+<EpubFormatDescription>EPUB format</EpubFormatDescription>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Another Heartbeat in the House</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Kate Beaufoy</PersonName>
+<PersonNameInverted>Beaufoy, Kate</PersonNameInverted>
+<NamesBeforeKey>Kate</NamesBeforeKey>
+<KeyNames>Beaufoy</KeyNames>
+</Contributor>
+<NumberOfPages>576</NumberOfPages>
+<BICMainSubject>FA</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>FR</SubjectCode>
+<SubjectHeadingText>Romance</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>Two women living a hundred years apart. One home that binds them together. 
+
+When Edie Chadwick travels to Ireland to close up her uncle's lakeside lodge, it's as much to escape the burden of guilt she's carrying as to break loose from the smart set of 1930's London.  
+
+The old house is full of memories - not just her own, but those of a woman whose story has been left to gather dust in a chest in the attic: a handwritten memoir inscribed with an elegant signature . . . Eliza Drury    
+
+As she turns the pages of the manuscript, Edie uncovers secrets she could never have imagined: an exciting tale of ambition, hardship, love and tragedy - a story that has waited a lifetime to be told. . .
+
+'A delightful story, rich, engrossing and vividly told' Rachel Hore
+
+`A compelling, atmospheric story brimming with period detail about two feisty, independent heroines who will steal your heart' Cathy Kelly
+
+'With a marvellously evocative setting, strong and believable lead characters and a pacey plot, Another Heartbeat in the House is a thoroughly compelling love story' Liz Trenow</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>Kate Beaufoy has an MA in French and English literature from Trinity College Dublin. She began her career as a professional actor before becoming a full-time writer. As Kate Thompson she has had a dozen novels published, including the number one bestseller THE BLUE HOUR which was shortlisted for the RNA award. 
+
+LIBERTY SILK was her first historical novel. It was inspired by real letters written from Europe by her grandmother, Jessie Beaufoy, in the aftermath of the Great War. 
+
+Kate scuba dives to an advanced level and is in thrall to her Burmese cat.</Text>
+</OtherText>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9781848271920.jpg</MediaFileLink>
+</MediaFile>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>197052</NameCodeValue>
+<ImprintName>Transworld Ireland</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>226684</NameCodeValue>
+<PublisherName>Random House (Digital)</PublisherName>
+</Publisher>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20150702</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsCountry>AD AG AU AT BS BD BB BE BM BT BW BZ IO SB VG BN BG MM CA KY LK CX CC CK CY CZ DK DM EE FK FJ FI FR GF GM DE GH GI KI GR GD GP GY HM VA HK HU IS IN IE IT JM JO KE LS LV LI LT LU MW MY MV MT MQ MU MC MS NA NR NP NL VU NZ NG NU NF NO PK PG PN PL PT RE RO SH KN AI LC VC SM SC SL SG SK SI SO ZA ZW ES SD SJ SZ SE CH TK TO TT TC TV UG GB TZ WS YE ZM</RightsCountry>
+</SalesRights>
+<SalesRights>
+<SalesRightsType>02</SalesRightsType>
+<RightsCountry>AF AQ DZ AO AZ AR BH AM BO BA BV BR BI BY KH CM CV CF TD CL CN TW CO KM YT CG CD CR HR CU BJ DO EC SV GQ ET ER FO GS AX TF DJ GA GE GL GU GT GN HT HN ID IR IQ IL CI JP KZ KP KR KW KG LA LB LR LY MO MG ML MR MX MN MD MA MZ OM AW NC NI NE MP FM MH PW PA PY PE GW QA RU RW BL MF ST SA SN VN EH SR SY TJ TH TG AE TN TR TM UA MK EG BF UY UZ VE WF</RightsCountry>
+</SalesRights>
+<SalesRights>
+<SalesRightsType>03</SalesRightsType>
+<RightsTerritory>ROW</RightsTerritory>
+</SalesRights>
+<RelatedProduct>
+<RelationCode>13</RelationCode>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781848271913</IDValue>
+</ProductIdentifier>
+</RelatedProduct>
+</Product>
+<Product>
+<RecordReference>9781848895522</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781848895522</IDValue>
+</ProductIdentifier>
+<ProductForm>DG</ProductForm>
+<ProductContentType>10</ProductContentType>
+<EpubType>029</EpubType>
+<EpubFormatDescription>EPUB format</EpubFormatDescription>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Killarney to Valentia Island</TitleText>
+<Subtitle>The Iveragh Peninsula: A Walking Guide</Subtitle>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Adrian Hendroff</PersonName>
+<PersonNameInverted>Hendroff, Adrian</PersonNameInverted>
+<NamesBeforeKey>Adrian</NamesBeforeKey>
+<KeyNames>Hendroff</KeyNames>
+</Contributor>
+<BICMainSubject>WSZC</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>WTH</SubjectCode>
+<SubjectHeadingText>Travel &amp; holiday guides</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>13</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>1DBR</SubjectCode>
+<SubjectHeadingText>Ireland</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<OtherText>
+<TextTypeCode>02</TextTypeCode>
+<Text>The Iveragh Peninsula, the largest in SW Ireland, stretches from Killarney to Valentia Island and attracts thousands of visitors annually. The Ring of Kerry coastal road winds along its fringes and sandstone peaks soar high above. There is no better way to explore this landscape than on foot. This book helps you do that with a variety of routes.
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>The Iveragh Peninsula, the largest in southwest Ireland, stretches from Killarney to Bolus Head and attracts thousands of visitors annually. The Ring of Kerry coastal road winds along its fringes and sandstone peaks soar high above. It is a landscape of raw and stunning beauty from the lakes that fill the corries to the spectacular cliff scenery along its coast. There is no better way to explore this landscape than on foot. This book helps you do just that with routes ranging from a few hours to full-day walks. Explore Valentia Island, the majestic MacGillycuddy's Reeks and sections of The Kerry Way. Go off the beaten track and explore the coast, hills and woodlands from Killarney to Cahersiveen to Kenmare. Each route is prefaced with a reference summary and illustrated with maps and photographs. Route descriptions include GPS coordinates, navigation guidance, access notes and short variations. There is also material on the fauna, flora, folklore, history, geology and place names of each area.</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<Text>'Important new guide.' Irish Mountain Log 'I loved this book! Extremely user friendly and should appeal to everyone.' MountainViews 'Attractive and practical.' Outdoor Focus</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>Adrian Hendroff is a qualified mountain guide and a member of the Outdoor Writers and Photographers Guild. His articles and photographs have been widely published. He has explored the mountains of Scotland, Wales, England, Romania, Iceland, the European Alps and the Dolomites, but he thinks of the Irish mountains as home. His previous books include From High Places: A Journey Through Ireland's Great Mountains (2010), The Dingle, Iveragh &amp; Beara Peninsulas: A Walking Guide (2011) and Donegal, Sligo &amp; Leitrim: Mountain &amp; Coastal Hillwalks (2012).</Text>
+</OtherText>
+<ProductWebsite>
+<WebsiteRole>01</WebsiteRole>
+<ProductWebsiteLink>http://www.collinspress.ie</ProductWebsiteLink>
+</ProductWebsite>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>46764</NameCodeValue>
+<ImprintName>The Collins Press</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>46764</NameCodeValue>
+<PublisherName>The Collins Press</PublisherName>
+</Publisher>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20151222</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+</Product>
+<Product>
+<RecordReference>9781848895577</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781848895577</IDValue>
+</ProductIdentifier>
+<ProductForm>DG</ProductForm>
+<ProductContentType>10</ProductContentType>
+<EpubType>002</EpubType>
+<EpubFormat>02</EpubFormat>
+<EpubFormatDescription>PDF</EpubFormatDescription>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>The Kerry Way</TitleText>
+<TitlePrefix>The</TitlePrefix>
+<TitleWithoutPrefix>Kerry Way</TitleWithoutPrefix>
+<Subtitle>A Walking Guide</Subtitle>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Donal Nolan</PersonName>
+<PersonNameInverted>Nolan, Donal</PersonNameInverted>
+<NamesBeforeKey>Donal</NamesBeforeKey>
+<KeyNames>Nolan</KeyNames>
+</Contributor>
+<BICMainSubject>WSZC</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>WTH</SubjectCode>
+<SubjectHeadingText>Travel &amp; holiday guides</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>13</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>1DBR</SubjectCode>
+<SubjectHeadingText>Ireland</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<OtherText>
+<TextTypeCode>02</TextTypeCode>
+<Text>The Kerry Way is Ireland's longest waymarked trail and one of the most popular. Looping around the Iveragh Peninsula, it follows narrow country roads, forest paths, abandoned coach roads and mass paths, national park land and farmland. This clear and lively guide gives the prospective wayfarer enough information to plan and enjoy every step.
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>The Kerry Way is Ireland's longest waymarked trail and one of the most popular. Looping around the Iveragh Peninsula, it follows narrow country roads, forest paths, abandoned coach roads and mass paths, national park land and farmland. This clear and lively guide gives the prospective wayfarer enough information to plan and enjoy every step. It offers a detailed description of the trail plus lively asides on geology, history, folklore, settlement, flora and fauna. Above all, this guide will keep the reader from getting lost. The trail description is broken down into sections from the first step out of Killarney, through the high passes in the MacGillycuddy's Reeks, into the splendour of the Ring of Kerry, and back to Killarney. This guidebook is a light, lively guide to this 200km walk, with enough guidance, cultural background and natural history to ensure the user stays on track to arrive at their car, hostel or B&amp;B.</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<Text>"Impressed by the clarity and detail." Irish Mountain Log</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>Donal Nolan is a native of Co Kerry where he is a journalist at The Kerryman newspaper. He climbed his first mountain aged three (Cruach Mharthain) and has been loathe to come down from the hills since. The Kerry Way is his first book.</Text>
+</OtherText>
+<ProductWebsite>
+<WebsiteRole>01</WebsiteRole>
+<ProductWebsiteLink>http://www.collinspress.ie</ProductWebsiteLink>
+</ProductWebsite>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>46764</NameCodeValue>
+<ImprintName>The Collins Press</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>46764</NameCodeValue>
+<PublisherName>The Collins Press</PublisherName>
+</Publisher>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20151222</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+</Product>
+<Product>
+<RecordReference>9781848895584</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781848895584</IDValue>
+</ProductIdentifier>
+<ProductForm>DG</ProductForm>
+<ProductContentType>10</ProductContentType>
+<EpubType>029</EpubType>
+<EpubFormatDescription>EPUB format</EpubFormatDescription>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>The Kerry Way</TitleText>
+<TitlePrefix>The</TitlePrefix>
+<TitleWithoutPrefix>Kerry Way</TitleWithoutPrefix>
+<Subtitle>A Walking Guide</Subtitle>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Donal Nolan</PersonName>
+<PersonNameInverted>Nolan, Donal</PersonNameInverted>
+<NamesBeforeKey>Donal</NamesBeforeKey>
+<KeyNames>Nolan</KeyNames>
+</Contributor>
+<BICMainSubject>WSZC</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>WTH</SubjectCode>
+<SubjectHeadingText>Travel &amp; holiday guides</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>13</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>1DBR</SubjectCode>
+<SubjectHeadingText>Ireland</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<OtherText>
+<TextTypeCode>02</TextTypeCode>
+<Text>The Kerry Way is Ireland's longest waymarked trail and one of the most popular. Looping around the Iveragh Peninsula, it follows narrow country roads, forest paths, abandoned coach roads and mass paths, national park land and farmland. This clear and lively guide gives the prospective wayfarer enough information to plan and enjoy every step.
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>The Kerry Way is Ireland's longest waymarked trail and one of the most popular. Looping around the Iveragh Peninsula, it follows narrow country roads, forest paths, abandoned coach roads and mass paths, national park land and farmland. This clear and lively guide gives the prospective wayfarer enough information to plan and enjoy every step. It offers a detailed description of the trail plus lively asides on geology, history, folklore, settlement, flora and fauna. Above all, this guide will keep the reader from getting lost. The trail description is broken down into sections from the first step out of Killarney, through the high passes in the MacGillycuddy's Reeks, into the splendour of the Ring of Kerry, and back to Killarney. This guidebook is a light, lively guide to this 200km walk, with enough guidance, cultural background and natural history to ensure the user stays on track to arrive at their car, hostel or B&amp;B.</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<Text>"Impressed by the clarity and detail." Irish Mountain Log</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>Donal Nolan is a native of Co Kerry where he is a journalist at The Kerryman newspaper. He climbed his first mountain aged three (Cruach Mharthain) and has been loathe to come down from the hills since. The Kerry Way is his first book.</Text>
+</OtherText>
+<ProductWebsite>
+<WebsiteRole>01</WebsiteRole>
+<ProductWebsiteLink>http://www.collinspress.ie</ProductWebsiteLink>
+</ProductWebsite>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>46764</NameCodeValue>
+<ImprintName>The Collins Press</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>46764</NameCodeValue>
+<PublisherName>The Collins Press</PublisherName>
+</Publisher>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20151222</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+</Product>
+<Product>
+<RecordReference>9781848895591</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781848895591</IDValue>
+</ProductIdentifier>
+<ProductForm>DG</ProductForm>
+<ProductContentType>10</ProductContentType>
+<EpubType>031</EpubType>
+<EpubFormatDescription>Kindle</EpubFormatDescription>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>The Kerry Way</TitleText>
+<TitlePrefix>The</TitlePrefix>
+<TitleWithoutPrefix>Kerry Way</TitleWithoutPrefix>
+<Subtitle>A Walking Guide</Subtitle>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Donal Nolan</PersonName>
+<PersonNameInverted>Nolan, Donal</PersonNameInverted>
+<NamesBeforeKey>Donal</NamesBeforeKey>
+<KeyNames>Nolan</KeyNames>
+</Contributor>
+<BICMainSubject>WSZC</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>WTH</SubjectCode>
+<SubjectHeadingText>Travel &amp; holiday guides</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>13</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>1DBR</SubjectCode>
+<SubjectHeadingText>Ireland</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<OtherText>
+<TextTypeCode>02</TextTypeCode>
+<Text>The Kerry Way is Ireland's longest waymarked trail and one of the most popular. Looping around the Iveragh Peninsula, it follows narrow country roads, forest paths, abandoned coach roads and mass paths, national park land and farmland. This clear and lively guide gives the prospective wayfarer enough information to plan and enjoy every step.
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>The Kerry Way is Ireland's longest waymarked trail and one of the most popular. Looping around the Iveragh Peninsula, it follows narrow country roads, forest paths, abandoned coach roads and mass paths, national park land and farmland. This clear and lively guide gives the prospective wayfarer enough information to plan and enjoy every step. It offers a detailed description of the trail plus lively asides on geology, history, folklore, settlement, flora and fauna. Above all, this guide will keep the reader from getting lost. The trail description is broken down into sections from the first step out of Killarney, through the high passes in the MacGillycuddy's Reeks, into the splendour of the Ring of Kerry, and back to Killarney. This guidebook is a light, lively guide to this 200km walk, with enough guidance, cultural background and natural history to ensure the user stays on track to arrive at their car, hostel or B&amp;B.</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<Text>"Impressed by the clarity and detail." Irish Mountain Log</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>Donal Nolan is a native of Co Kerry where he is a journalist at The Kerryman newspaper. He climbed his first mountain aged three (Cruach Mharthain) and has been loathe to come down from the hills since. The Kerry Way is his first book.</Text>
+</OtherText>
+<ProductWebsite>
+<WebsiteRole>01</WebsiteRole>
+<ProductWebsiteLink>http://www.collinspress.ie</ProductWebsiteLink>
+</ProductWebsite>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>46764</NameCodeValue>
+<ImprintName>The Collins Press</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>46764</NameCodeValue>
+<PublisherName>The Collins Press</PublisherName>
+</Publisher>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20151222</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+</Product>
+<Product>
+<RecordReference>9781848895331</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781848895331</IDValue>
+</ProductIdentifier>
+<ProductForm>DG</ProductForm>
+<ProductContentType>10</ProductContentType>
+<EpubType>002</EpubType>
+<EpubFormat>02</EpubFormat>
+<EpubFormatDescription>PDF</EpubFormatDescription>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Ireland's Best Walks</TitleText>
+<Subtitle>A Walking Guide</Subtitle>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Helen Fairbairn</PersonName>
+<PersonNameInverted>Fairbairn, Helen</PersonNameInverted>
+<NamesBeforeKey>Helen</NamesBeforeKey>
+<KeyNames>Fairbairn</KeyNames>
+</Contributor>
+<Contributor>
+<SequenceNumber>2</SequenceNumber>
+<ContributorRole>A13</ContributorRole>
+<PersonName>Gareth McCormack</PersonName>
+<PersonNameInverted>McCormack, Gareth</PersonNameInverted>
+<NamesBeforeKey>Gareth</NamesBeforeKey>
+<KeyNames>McCormack</KeyNames>
+</Contributor>
+<IllustrationsNote> maps and colour photos</IllustrationsNote>
+<BICMainSubject>WSZC</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>WTH</SubjectCode>
+<SubjectHeadingText>Travel &amp; holiday guides</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>13</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>1DBR</SubjectCode>
+<SubjectHeadingText>Ireland</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<OtherText>
+<TextTypeCode>02</TextTypeCode>
+<Text>In a country richly endowed with wild mountain ranges, secluded valleys and untamed coastlines, the best natural landscapes can only be explored on foot. Here are over sixty of the greatest one-day walking routes in Ireland, varying from short strolls to full-day treks. Every part of the Republic and Northern Ireland is featured.
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>In a country richly endowed with wild mountain ranges, secluded valleys and untamed coastlines, the best natural landscapes can only be explored on foot. Here are over sixty of the greatest one-day walking routes in Ireland, varying from short strolls to full-day treks. Every part of the Republic and Northern Ireland is featured. From rugged peaks and chiselled ridge lines to towering sea cliffs and sheltered loughs, these routes take you past all the country's finest scenery. Many of the routes are hill-walks, with clear descriptions of the country's classic mountain ascents. Even seasoned hillwalkers will find challenging outings. Each walk is illustrated with sketch maps and colour photos and is prefaced with a quick-reference summary and access notes. Route descriptions include clear navigational guidance to keep you on the right track.</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<Text>'Definitely recommended for hillwalkers new and old.' MountainViews 'Well written and beautifully produced.' Irish Mountain Log 'Indispensible - let this book guide your steps.' Irish Voice</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>Helen Fairbairn is a full-time writer of outdoor activity guides, including Northern Ireland - A Walking Guide (2012), Dublin &amp; Wicklow - A Walking Guide (2014), and walking guidebooks to the Rocky Mountains, Scotland's highlands and islands and the European Alps. She lives in County Sligo, and is a regular contributor to Walking World Ireland, Ireland's only dedicated walking magazine.</Text>
+</OtherText>
+<ProductWebsite>
+<WebsiteRole>01</WebsiteRole>
+<ProductWebsiteLink>http://www.collinspress.ie</ProductWebsiteLink>
+</ProductWebsite>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>46764</NameCodeValue>
+<ImprintName>The Collins Press</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>46764</NameCodeValue>
+<PublisherName>The Collins Press</PublisherName>
+</Publisher>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20151222</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+</Product>
+<Product>
+<RecordReference>9781848895386</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781848895386</IDValue>
+</ProductIdentifier>
+<ProductForm>DG</ProductForm>
+<ProductContentType>10</ProductContentType>
+<EpubType>031</EpubType>
+<EpubFormatDescription>Kindle</EpubFormatDescription>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Ireland's Best Walks</TitleText>
+<Subtitle>A Walking Guide</Subtitle>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Helen Fairbairn</PersonName>
+<PersonNameInverted>Fairbairn, Helen</PersonNameInverted>
+<NamesBeforeKey>Helen</NamesBeforeKey>
+<KeyNames>Fairbairn</KeyNames>
+</Contributor>
+<Contributor>
+<SequenceNumber>2</SequenceNumber>
+<ContributorRole>A13</ContributorRole>
+<PersonName>Gareth McCormack</PersonName>
+<PersonNameInverted>McCormack, Gareth</PersonNameInverted>
+<NamesBeforeKey>Gareth</NamesBeforeKey>
+<KeyNames>McCormack</KeyNames>
+</Contributor>
+<IllustrationsNote> maps and colour photos</IllustrationsNote>
+<BICMainSubject>WSZC</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>WTH</SubjectCode>
+<SubjectHeadingText>Travel &amp; holiday guides</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>13</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>1DBR</SubjectCode>
+<SubjectHeadingText>Ireland</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<OtherText>
+<TextTypeCode>02</TextTypeCode>
+<Text>In a country richly endowed with wild mountain ranges, secluded valleys and untamed coastlines, the best natural landscapes can only be explored on foot. Here are over sixty of the greatest one-day walking routes in Ireland, varying from short strolls to full-day treks. Every part of the Republic and Northern Ireland is featured.
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>In a country richly endowed with wild mountain ranges, secluded valleys and untamed coastlines, the best natural landscapes can only be explored on foot. Here are over sixty of the greatest one-day walking routes in Ireland, varying from short strolls to full-day treks. Every part of the Republic and Northern Ireland is featured. From rugged peaks and chiselled ridge lines to towering sea cliffs and sheltered loughs, these routes take you past all the country's finest scenery. Many of the routes are hill-walks, with clear descriptions of the country's classic mountain ascents. Even seasoned hillwalkers will find challenging outings. Each walk is illustrated with sketch maps and colour photos and is prefaced with a quick-reference summary and access notes. Route descriptions include clear navigational guidance to keep you on the right track.</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<Text>'Definitely recommended for hillwalkers new and old.' MountainViews 'Well written and beautifully produced.' Irish Mountain Log 'Indispensible - let this book guide your steps.' Irish Voice</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>Helen Fairbairn is a full-time writer of outdoor activity guides, including Northern Ireland - A Walking Guide (2012), Dublin &amp; Wicklow - A Walking Guide (2014), and walking guidebooks to the Rocky Mountains, Scotland's highlands and islands and the European Alps. She lives in County Sligo, and is a regular contributor to Walking World Ireland, Ireland's only dedicated walking magazine.</Text>
+</OtherText>
+<ProductWebsite>
+<WebsiteRole>01</WebsiteRole>
+<ProductWebsiteLink>http://www.collinspress.ie</ProductWebsiteLink>
+</ProductWebsite>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>46764</NameCodeValue>
+<ImprintName>The Collins Press</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>46764</NameCodeValue>
+<PublisherName>The Collins Press</PublisherName>
+</Publisher>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20151222</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+</Product>
+<Product>
+<RecordReference>9781848895515</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781848895515</IDValue>
+</ProductIdentifier>
+<ProductForm>DG</ProductForm>
+<ProductContentType>10</ProductContentType>
+<EpubType>002</EpubType>
+<EpubFormat>02</EpubFormat>
+<EpubFormatDescription>PDF</EpubFormatDescription>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Killarney to Valentia Island</TitleText>
+<Subtitle>The Iveragh Peninsula: A Walking Guide</Subtitle>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Adrian Hendroff</PersonName>
+<PersonNameInverted>Hendroff, Adrian</PersonNameInverted>
+<NamesBeforeKey>Adrian</NamesBeforeKey>
+<KeyNames>Hendroff</KeyNames>
+</Contributor>
+<BICMainSubject>WSZC</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>WTH</SubjectCode>
+<SubjectHeadingText>Travel &amp; holiday guides</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>13</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>1DBR</SubjectCode>
+<SubjectHeadingText>Ireland</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<OtherText>
+<TextTypeCode>02</TextTypeCode>
+<Text>The Iveragh Peninsula, the largest in SW Ireland, stretches from Killarney to Valentia Island and attracts thousands of visitors annually. The Ring of Kerry coastal road winds along its fringes and sandstone peaks soar high above. There is no better way to explore this landscape than on foot. This book helps you do that with a variety of routes.
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>The Iveragh Peninsula, the largest in southwest Ireland, stretches from Killarney to Bolus Head and attracts thousands of visitors annually. The Ring of Kerry coastal road winds along its fringes and sandstone peaks soar high above. It is a landscape of raw and stunning beauty from the lakes that fill the corries to the spectacular cliff scenery along its coast. There is no better way to explore this landscape than on foot. This book helps you do just that with routes ranging from a few hours to full-day walks. Explore Valentia Island, the majestic MacGillycuddy's Reeks and sections of The Kerry Way. Go off the beaten track and explore the coast, hills and woodlands from Killarney to Cahersiveen to Kenmare. Each route is prefaced with a reference summary and illustrated with maps and photographs. Route descriptions include GPS coordinates, navigation guidance, access notes and short variations. There is also material on the fauna, flora, folklore, history, geology and place names of each area.</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<Text>'Important new guide.' Irish Mountain Log 'I loved this book! Extremely user friendly and should appeal to everyone.' MountainViews 'Attractive and practical.' Outdoor Focus</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>Adrian Hendroff is a qualified mountain guide and a member of the Outdoor Writers and Photographers Guild. His articles and photographs have been widely published. He has explored the mountains of Scotland, Wales, England, Romania, Iceland, the European Alps and the Dolomites, but he thinks of the Irish mountains as home. His previous books include From High Places: A Journey Through Ireland's Great Mountains (2010), The Dingle, Iveragh &amp; Beara Peninsulas: A Walking Guide (2011) and Donegal, Sligo &amp; Leitrim: Mountain &amp; Coastal Hillwalks (2012).</Text>
+</OtherText>
+<ProductWebsite>
+<WebsiteRole>01</WebsiteRole>
+<ProductWebsiteLink>http://www.collinspress.ie</ProductWebsiteLink>
+</ProductWebsite>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>46764</NameCodeValue>
+<ImprintName>The Collins Press</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>46764</NameCodeValue>
+<PublisherName>The Collins Press</PublisherName>
+</Publisher>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20151222</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+</Product>
+<Product>
+<RecordReference>9781848895379</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781848895379</IDValue>
+</ProductIdentifier>
+<ProductForm>DG</ProductForm>
+<ProductContentType>10</ProductContentType>
+<EpubType>029</EpubType>
+<EpubFormatDescription>EPUB format</EpubFormatDescription>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Ireland's Best Walks</TitleText>
+<Subtitle>A Walking Guide</Subtitle>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Helen Fairbairn</PersonName>
+<PersonNameInverted>Fairbairn, Helen</PersonNameInverted>
+<NamesBeforeKey>Helen</NamesBeforeKey>
+<KeyNames>Fairbairn</KeyNames>
+</Contributor>
+<Contributor>
+<SequenceNumber>2</SequenceNumber>
+<ContributorRole>A13</ContributorRole>
+<PersonName>Gareth McCormack</PersonName>
+<PersonNameInverted>McCormack, Gareth</PersonNameInverted>
+<NamesBeforeKey>Gareth</NamesBeforeKey>
+<KeyNames>McCormack</KeyNames>
+</Contributor>
+<IllustrationsNote> maps and colour photos</IllustrationsNote>
+<BICMainSubject>WSZC</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>WTH</SubjectCode>
+<SubjectHeadingText>Travel &amp; holiday guides</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>13</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>1DBR</SubjectCode>
+<SubjectHeadingText>Ireland</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<OtherText>
+<TextTypeCode>02</TextTypeCode>
+<Text>In a country richly endowed with wild mountain ranges, secluded valleys and untamed coastlines, the best natural landscapes can only be explored on foot. Here are over sixty of the greatest one-day walking routes in Ireland, varying from short strolls to full-day treks. Every part of the Republic and Northern Ireland is featured.
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>In a country richly endowed with wild mountain ranges, secluded valleys and untamed coastlines, the best natural landscapes can only be explored on foot. Here are over sixty of the greatest one-day walking routes in Ireland, varying from short strolls to full-day treks. Every part of the Republic and Northern Ireland is featured. From rugged peaks and chiselled ridge lines to towering sea cliffs and sheltered loughs, these routes take you past all the country's finest scenery. Many of the routes are hill-walks, with clear descriptions of the country's classic mountain ascents. Even seasoned hillwalkers will find challenging outings. Each walk is illustrated with sketch maps and colour photos and is prefaced with a quick-reference summary and access notes. Route descriptions include clear navigational guidance to keep you on the right track.</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<Text>'Definitely recommended for hillwalkers new and old.' MountainViews 'Well written and beautifully produced.' Irish Mountain Log 'Indispensible - let this book guide your steps.' Irish Voice</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>Helen Fairbairn is a full-time writer of outdoor activity guides, including Northern Ireland - A Walking Guide (2012), Dublin &amp; Wicklow - A Walking Guide (2014), and walking guidebooks to the Rocky Mountains, Scotland's highlands and islands and the European Alps. She lives in County Sligo, and is a regular contributor to Walking World Ireland, Ireland's only dedicated walking magazine.</Text>
+</OtherText>
+<ProductWebsite>
+<WebsiteRole>01</WebsiteRole>
+<ProductWebsiteLink>http://www.collinspress.ie</ProductWebsiteLink>
+</ProductWebsite>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>46764</NameCodeValue>
+<ImprintName>The Collins Press</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>46764</NameCodeValue>
+<PublisherName>The Collins Press</PublisherName>
+</Publisher>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20151222</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+</Product>
+<Product>
+<RecordReference>9781848405097</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781848405097</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>The Splendid Years</TitleText>
+<TitlePrefix>The</TitlePrefix>
+<TitleWithoutPrefix>Splendid Years</TitleWithoutPrefix>
+<Subtitle>Memoirs of the Abbey's Leading Lady and 1916 Rebel</Subtitle>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Maire Nic Shuibhlaigh</PersonName>
+<PersonNameInverted>Nic Shuibhlaigh, Maire</PersonNameInverted>
+<NamesBeforeKey>Maire</NamesBeforeKey>
+<KeyNames>Nic Shuibhlaigh</KeyNames>
+</Contributor>
+<Contributor>
+<SequenceNumber>2</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Edward Kenny</PersonName>
+<PersonNameInverted>Kenny, Edward</PersonNameInverted>
+<NamesBeforeKey>Edward</NamesBeforeKey>
+<KeyNames>Kenny</KeyNames>
+</Contributor>
+<Contributor>
+<SequenceNumber>3</SequenceNumber>
+<ContributorRole>B01</ContributorRole>
+<PersonName>David Kenny</PersonName>
+<PersonNameInverted>Kenny, David</PersonNameInverted>
+<NamesBeforeKey>David</NamesBeforeKey>
+<KeyNames>Kenny</KeyNames>
+</Contributor>
+<EditionTypeCode>REV</EditionTypeCode>
+<EditionStatement>Revised edition</EditionStatement>
+<BASICMainSubject>BIO026000</BASICMainSubject>
+<BASICVersion>BISAC 2013</BASICVersion>
+<BICMainSubject>BM</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>PER011000</SubjectCode>
+<SubjectHeadingText>PERFORMING ARTS / Theater / General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>ANB</SubjectCode>
+<SubjectHeadingText>Theatre: individual actors &amp; directors</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>13</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>1DBR</SubjectCode>
+<SubjectHeadingText>Ireland</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>15</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>3JJC</SubjectCode>
+<SubjectHeadingText>c 1900 - c 1914</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>15</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>3JJF</SubjectCode>
+<SubjectHeadingText>c 1914 to c 1918 (including WW1)</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>DNC</SubjectCode>
+<SubjectHeadingText>Memoirs</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>ATC</SubjectCode>
+<SubjectHeadingText>Individual actors &amp; performers</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>ATD</SubjectCode>
+<SubjectHeadingText>Theatre studies</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>94</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>1DDR</SubjectCode>
+<SubjectHeadingText>Ireland</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>96</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>3MPBA</SubjectCode>
+<SubjectHeadingText>c 1900 to c 1909</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>96</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>3MPBF</SubjectCode>
+<SubjectHeadingText>c 1910 to c 1919</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>DC23</SubjectSchemeVersion>
+<SubjectCode>792.028092</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>T4.0A</SubjectCode>
+<SubjectHeadingText>Autobiography: General </SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>BIO</SubjectCode>
+<SubjectHeadingText>ANF:Biography</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>BIO</SubjectCode>
+<SubjectHeadingText>ANF: Biography</SubjectHeadingText>
+</Subject>
+<PersonAsSubject>
+<PersonName>Maire Nic Shuibhlaigh</PersonName>
+<PersonNameInverted>Nic Shuibhlaigh, Maire</PersonNameInverted>
+</PersonAsSubject>
+<AudienceCode>01</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>50982</NameCodeValue>
+<ImprintName>New Island Books</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>50982</NameCodeValue>
+<PublisherName>New Island Books</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160331</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+<SupplyDetail>
+<SupplierName>Argosy</SupplierName>
+<SupplierRole>04</SupplierRole>
+<SupplyToCountry>GB</SupplyToCountry>
+<ProductAvailability>20</ProductAvailability>
+<UnpricedItemType>04</UnpricedItemType>
+</SupplyDetail>
+</Product>
+<Product>
+<RecordReference>9781848405172</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781848405172</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Black Rose Days</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Martin Malone</PersonName>
+<PersonNameInverted>Malone, Martin</PersonNameInverted>
+<NamesBeforeKey>Martin</NamesBeforeKey>
+<KeyNames>Malone</KeyNames>
+</Contributor>
+<BASICMainSubject>FIC000000</BASICMainSubject>
+<BASICVersion>BISAC 2013</BASICVersion>
+<BICMainSubject>FA</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>FIC022000</SubjectCode>
+<SubjectHeadingText>FICTION / Mystery &amp; Detective / General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>FIC050000</SubjectCode>
+<SubjectHeadingText>FICTION / Crime</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>FF</SubjectCode>
+<SubjectHeadingText>Crime &amp; mystery</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>FBA</SubjectCode>
+<SubjectHeadingText>Modern &amp; contemporary fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>FF</SubjectCode>
+<SubjectHeadingText>Crime &amp; mystery fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>GEN</SubjectCode>
+<SubjectHeadingText>AF:General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>GNR</SubjectCode>
+<SubjectHeadingText>AF: General</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>50982</NameCodeValue>
+<ImprintName>New Island Books</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>50982</NameCodeValue>
+<PublisherName>New Island Books</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160331</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+<SupplyDetail>
+<SupplierName>Argosy</SupplierName>
+<SupplierRole>04</SupplierRole>
+<SupplyToCountry>GB</SupplyToCountry>
+<ProductAvailability>20</ProductAvailability>
+<UnpricedItemType>04</UnpricedItemType>
+</SupplyDetail>
+</Product>
+<Product>
+<RecordReference>9781781192191</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781781192191</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Work, Ethics &amp; Organisational Life</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>John G. Cullen</PersonName>
+<PersonNameInverted>Cullen, John G.</PersonNameInverted>
+<NamesBeforeKey>John G.</NamesBeforeKey>
+<KeyNames>Cullen</KeyNames>
+</Contributor>
+<NumberOfPages>146</NumberOfPages>
+<BASICMainSubject>BUS008000</BASICMainSubject>
+<BASICVersion>BISAC 2013</BASICVersion>
+<BICMainSubject>KJG</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>BUS000000</SubjectCode>
+<SubjectHeadingText>BUSINESS &amp; ECONOMICS / General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>BUS094000</SubjectCode>
+<SubjectHeadingText>BUSINESS &amp; ECONOMICS / Green Business</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>BUS096000</SubjectCode>
+<SubjectHeadingText>BUSINESS &amp; ECONOMICS / Office Management</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>BUS097000</SubjectCode>
+<SubjectHeadingText>BUSINESS &amp; ECONOMICS / Workplace Culture</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>KJ</SubjectCode>
+<SubjectHeadingText>Business &amp; management</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>KJJ</SubjectCode>
+<SubjectHeadingText>Business &amp; the environment, 'Green' approaches to business</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>KJW</SubjectCode>
+<SubjectHeadingText>Office &amp; workplace</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>KJG</SubjectCode>
+<SubjectHeadingText>Business ethics &amp; social responsibility</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>KJJ</SubjectCode>
+<SubjectHeadingText>Business &amp; the environment; 'green' approaches to business</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>KJW</SubjectCode>
+<SubjectHeadingText>Office &amp; workplace</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>BUS</SubjectCode>
+<SubjectHeadingText>ANF:Business and Management</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>BUS</SubjectCode>
+<SubjectHeadingText>ANF: Business and Management</SubjectHeadingText>
+</Subject>
+<AudienceCode>05</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>104278</NameCodeValue>
+<ImprintName>Oak Tree Press</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>104278</NameCodeValue>
+<PublisherName>Oak Tree Press</PublisherName>
+</Publisher>
+<CityOfPublication>Cork</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160122</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+<Measure>
+<MeasureTypeCode>01</MeasureTypeCode>
+<Measurement>234</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>02</MeasureTypeCode>
+<Measurement>156</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+</Product>
+<Product>
+<RecordReference>9781782181897</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781782181897</IDValue>
+</ProductIdentifier>
+<ProductForm>BA</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>John Paul II: The Path to Sainthood</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Michael Collins</PersonName>
+<PersonNameInverted>Collins, Michael</PersonNameInverted>
+<NamesBeforeKey>Michael</NamesBeforeKey>
+<KeyNames>Collins</KeyNames>
+</Contributor>
+<NumberOfPages>148</NumberOfPages>
+<BASICMainSubject>REL108030</BASICMainSubject>
+<BICMainSubject>HRCX1</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>QRMB</SubjectCode>
+<SubjectHeadingText>Christian Churches, denominations, groups</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>QRVS1</SubjectCode>
+<SubjectHeadingText>Religious &amp; spiritual leaders</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>DC21</SubjectSchemeVersion>
+<SubjectCode>282.092</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>T6.1</SubjectCode>
+<SubjectHeadingText>Christianity: General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>REL</SubjectCode>
+<SubjectHeadingText>ANF:Religion</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>REL</SubjectCode>
+<SubjectHeadingText>ANF: Religion</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>77982</NameCodeValue>
+<ImprintName>Columba Press</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>77982</NameCodeValue>
+<PublisherName>Columba Press</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20110630</PublicationDate>
+</Product>
+<Product>
+<RecordReference>9781782181620</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781782181620</IDValue>
+</ProductIdentifier>
+<ProductForm>BA</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Reconciliation</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Nuala Gannon</PersonName>
+<PersonNameInverted>Gannon, Nuala</PersonNameInverted>
+<NamesBeforeKey>Nuala</NamesBeforeKey>
+<KeyNames>Gannon</KeyNames>
+</Contributor>
+<NumberOfPages>189</NumberOfPages>
+<BASICMainSubject>REL055020</BASICMainSubject>
+<BICMainSubject>HRCR</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectCode>REL022000</SubjectCode>
+<SubjectHeadingText>RELIGION / Devotional</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectCode>REL108000</SubjectCode>
+<SubjectHeadingText>RELIGION / Christian Church / General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>HRL</SubjectCode>
+<SubjectHeadingText>Aspects of religion (non-Christian)</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>HRCX</SubjectCode>
+<SubjectHeadingText>Christian institutions &amp; organizations</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>QRMP</SubjectCode>
+<SubjectHeadingText>Christian life &amp; practice</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>QRVJ</SubjectCode>
+<SubjectHeadingText>Prayers &amp; liturgical material</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>QRVJ3</SubjectCode>
+<SubjectHeadingText>Devotional material</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>QRMB</SubjectCode>
+<SubjectHeadingText>Christian Churches, denominations, groups</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>DC21</SubjectSchemeVersion>
+<SubjectCode>242</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>T6.1</SubjectCode>
+<SubjectHeadingText>Christianity: General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>REL</SubjectCode>
+<SubjectHeadingText>ANF:Religion</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>REL</SubjectCode>
+<SubjectHeadingText>ANF: Religion</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>77982</NameCodeValue>
+<ImprintName>Columba Press</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>77982</NameCodeValue>
+<PublisherName>Columba Press</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20130731</PublicationDate>
+</Product>
+<Product>
+<RecordReference>9781782181507</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781782181507</IDValue>
+</ProductIdentifier>
+<ProductForm>BA</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>A Bishop Could Not Do Otherwise</TitleText>
+<TitlePrefix>A</TitlePrefix>
+<TitleWithoutPrefix>Bishop Could Not Do Otherwise</TitleWithoutPrefix>
+<Subtitle>The Life and Witness of Bishop Donal Lamont 1911-2003</Subtitle>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Micheal O'Neill</PersonName>
+<PersonNameInverted>O'Neill, Micheal</PersonNameInverted>
+<NamesBeforeKey>Micheal</NamesBeforeKey>
+<KeyNames>O'Neill</KeyNames>
+</Contributor>
+<NumberOfPages>321</NumberOfPages>
+<BASICMainSubject>BIO018000</BASICMainSubject>
+<BICMainSubject>BGX</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>DNBX</SubjectCode>
+<SubjectHeadingText>Biography: religious &amp; spiritual</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>DC21</SubjectSchemeVersion>
+<SubjectCode>261.83</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>T4.7</SubjectCode>
+<SubjectHeadingText>Biography: Religious &amp; Spiritual</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>BIO</SubjectCode>
+<SubjectHeadingText>ANF:Biography</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>BIO</SubjectCode>
+<SubjectHeadingText>ANF: Biography</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>77982</NameCodeValue>
+<ImprintName>Columba Press</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>77982</NameCodeValue>
+<PublisherName>Columba Press</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20130630</PublicationDate>
+</Product>
+<Product>
+<RecordReference>9781782181545</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781782181545</IDValue>
+</ProductIdentifier>
+<ProductForm>BA</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>A People's Church</TitleText>
+<TitlePrefix>A</TitlePrefix>
+<TitleWithoutPrefix>People's Church</TitleWithoutPrefix>
+<Subtitle>The Diocese of Achonry: From the Sixth to the Seventeenth Century</Subtitle>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Liam Swords</PersonName>
+<PersonNameInverted>Swords, Liam</PersonNameInverted>
+<NamesBeforeKey>Liam</NamesBeforeKey>
+<KeyNames>Swords</KeyNames>
+</Contributor>
+<NumberOfPages>670</NumberOfPages>
+<BASICMainSubject>REL108020</BASICMainSubject>
+<BICMainSubject>HRCX</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectCode>REL010000</SubjectCode>
+<SubjectHeadingText>RELIGION / Christianity / Catholic</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>HRAX</SubjectCode>
+<SubjectHeadingText>History of religion</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>HRCC7</SubjectCode>
+<SubjectHeadingText>Roman Catholicism, Roman Catholic Church</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>QRMB</SubjectCode>
+<SubjectHeadingText>Christian Churches, denominations, groups</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>QRAX</SubjectCode>
+<SubjectHeadingText>History of religion</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>QRMB1</SubjectCode>
+<SubjectHeadingText>Roman Catholicism, Roman Catholic Church</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>DC21</SubjectSchemeVersion>
+<SubjectCode>282</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>T6.1</SubjectCode>
+<SubjectHeadingText>Christianity: General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>REL</SubjectCode>
+<SubjectHeadingText>ANF:Religion</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>REL</SubjectCode>
+<SubjectHeadingText>ANF: Religion</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>77982</NameCodeValue>
+<ImprintName>Columba Press</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>77982</NameCodeValue>
+<PublisherName>Columba Press</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20131130</PublicationDate>
+</Product>
+<Product>
+<RecordReference>9781902121581</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781902121581</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Poetry Ireland Review Issue 117</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>B01</ContributorRole>
+<PersonName>Vona Groarke</PersonName>
+<PersonNameInverted>Groarke, Vona</PersonNameInverted>
+<NamesBeforeKey>Vona</NamesBeforeKey>
+<KeyNames>Groarke</KeyNames>
+<PersonDate>
+<PersonDateRole>007</PersonDateRole>
+<DateFormat>05</DateFormat>
+<Date>1964</Date>
+</PersonDate>
+</Contributor>
+<NumberOfPages>143</NumberOfPages>
+<BASICMainSubject>POE000000</BASICMainSubject>
+<BASICVersion>BISAC 2013</BASICVersion>
+<BICMainSubject>DC</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>DC</SubjectCode>
+<SubjectHeadingText>Poetry</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>LIT</SubjectCode>
+<SubjectHeadingText>ANF:Literature</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>LIT</SubjectCode>
+<SubjectHeadingText>ANF: Literature</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9781902121581.jpg</MediaFileLink>
+</MediaFile>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>2994</NameCodeValue>
+<ImprintName>Poetry Ireland Ltd.</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>2994</NameCodeValue>
+<PublisherName>Poetry Ireland Ltd.</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin 2</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20151230</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+<Measure>
+<MeasureTypeCode>01</MeasureTypeCode>
+<Measurement>234</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>02</MeasureTypeCode>
+<Measurement>156</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+</Product>
+<Product>
+<RecordReference>9781910154243</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781910154243</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Exploring the Viability of Small Scale Anaerobic Digesters in Livestock Farming</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Clare Lukehurst</PersonName>
+<PersonNameInverted>Lukehurst, Clare</PersonNameInverted>
+<NamesBeforeKey>Clare</NamesBeforeKey>
+<KeyNames>Lukehurst</KeyNames>
+</Contributor>
+<Contributor>
+<SequenceNumber>2</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Angela Bywater</PersonName>
+<PersonNameInverted>Bywater, Angela</PersonNameInverted>
+<NamesBeforeKey>Angela</NamesBeforeKey>
+<KeyNames>Bywater</KeyNames>
+</Contributor>
+<NumberOfPages>52</NumberOfPages>
+<IllustrationsNote>13 Figures and 29 Tables</IllustrationsNote>
+<BASICMainSubject>BUS070040</BASICMainSubject>
+<BASICVersion>BISAC 2013</BASICVersion>
+<BICMainSubject>KNBT</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>KNB</SubjectCode>
+<SubjectHeadingText>Energy industries &amp; utilities</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>IND</SubjectCode>
+<SubjectHeadingText>ANF:Industry</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>IND</SubjectCode>
+<SubjectHeadingText>ANF: Industry</SubjectHeadingText>
+</Subject>
+<AudienceCode>06</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>301094</NameCodeValue>
+<ImprintName>IEA Bioenergy</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>301094</NameCodeValue>
+<PublisherName>IEA Bioenergy</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin 9</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20151231</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+<Measure>
+<MeasureTypeCode>01</MeasureTypeCode>
+<Measurement>297</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>02</MeasureTypeCode>
+<Measurement>210</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+</Product>
+<Product>
+<RecordReference>9781906865559</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781906865559</IDValue>
+</ProductIdentifier>
+<ProductForm>BB</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Documents Relating to the Bogs Commission, 1809-1813</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Arnold Horner</PersonName>
+<PersonNameInverted>Horner, Arnold</PersonNameInverted>
+<NamesBeforeKey>Arnold</NamesBeforeKey>
+<KeyNames>Horner</KeyNames>
+</Contributor>
+<IllustrationsNote>Illustrated</IllustrationsNote>
+<BASICMainSubject>NAT038000</BASICMainSubject>
+<BASICVersion>BISAC 2013</BASICVersion>
+<BICMainSubject>RNF</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>SCI031000</SubjectCode>
+<SubjectHeadingText>SCIENCE / Earth Sciences / Geology</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>POL028000</SubjectCode>
+<SubjectHeadingText>POLITICAL SCIENCE / Public Policy / General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>BISAC 2013</SubjectSchemeVersion>
+<SubjectCode>POL058000</SubjectCode>
+<SubjectHeadingText>POLITICAL SCIENCE / World / European</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>RBGD</SubjectCode>
+<SubjectHeadingText>Geological surface processes (geomorphology)</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>JPQB</SubjectCode>
+<SubjectHeadingText>Central government policies</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>13</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>1DBR</SubjectCode>
+<SubjectHeadingText>Ireland</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>15</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>3JH</SubjectCode>
+<SubjectHeadingText>c 1800 to c 1900</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>RNF</SubjectCode>
+<SubjectHeadingText>Environmental management</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>RBGD</SubjectCode>
+<SubjectHeadingText>Geological surface processes (geomorphology)</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>JPQB</SubjectCode>
+<SubjectHeadingText>Central / national / federal government policies</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>94</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>1DDR</SubjectCode>
+<SubjectHeadingText>Ireland</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>96</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>3MN</SubjectCode>
+<SubjectHeadingText>19th century, c 1800 to c 1899</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>DC23</SubjectSchemeVersion>
+<SubjectCode>551.41709415</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>S8.3</SubjectCode>
+<SubjectHeadingText>Environment &amp; Planning</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>ENV</SubjectCode>
+<SubjectHeadingText>ANF:Environment and Ecology</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>ENV</SubjectCode>
+<SubjectHeadingText>ANF: Environment and Ecology</SubjectHeadingText>
+</Subject>
+<AudienceCode>05</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>85000</NameCodeValue>
+<ImprintName>Irish Manuscripts Commission</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>85000</NameCodeValue>
+<PublisherName>Irish Manuscripts Commission</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>201604</PublicationDate>
+</Product>
+<Product>
+<RecordReference>9781847176585</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781847176585</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>03</ProductIDType>
+<IDValue>9781847176585</IDValue>
+</ProductIdentifier>
+<ProductForm>DG</ProductForm>
+<ProductContentType>10</ProductContentType>
+<EpubType>029</EpubType>
+<EpubFormatDescription>EPUB format</EpubFormatDescription>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>A Short History of the Troubles</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Brian Feeney</PersonName>
+<PersonNameInverted>Feeney, Brian</PersonNameInverted>
+<NamesBeforeKey>Brian</NamesBeforeKey>
+<KeyNames>Feeney</KeyNames>
+</Contributor>
+<IllustrationsNote>16,Halftones, black and white</IllustrationsNote>
+<BICMainSubject>HBJD1</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>HBLW3</SubjectCode>
+<SubjectHeadingText>Postwar 20th century history, from c 1945 to c 2000</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>13</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>1DBKN</SubjectCode>
+<SubjectHeadingText>Northern Ireland</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>15</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>3JJP</SubjectCode>
+<SubjectHeadingText>c 1945 to c 2000 (Post-war period)</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>NHD</SubjectCode>
+<SubjectHeadingText>European history</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>96</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>3MPQ</SubjectCode>
+<SubjectHeadingText>Later 20th century c 1950 to c 1999</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>94</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>1DDU-GB-N</SubjectCode>
+<SubjectHeadingText>Northern Ireland</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>01</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>DC23</SubjectSchemeVersion>
+<SubjectCode>941.60824</SubjectCode>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>T5.2</SubjectCode>
+<SubjectHeadingText>Regional History</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<OtherText>
+<TextTypeCode>02</TextTypeCode>
+<Text>From the first symptoms of serious unrest to the tortuous political manoeuvrings culminating in the 2003 Assembly elections, the book traces the reality of life in Northern Ireland during the Troubles.
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>From the first symptoms of serious unrest - the Divis Street riots of 1964 - to the tortuous political manoeuvrings culminating in the 2003 Assembly elections, the book traces the reality of life in Northern Ireland during the Troubles.
+
+It details the motivation behind the IRA 'armed struggle', the Civil Rights movement, the murder campaigns of various loyalist terror groups, the major incidents of violence and the response of the British security forces and the justice system.
+
+It describes what it was like to live with bombs, army searches in the dead of night, death threats to politicians, activists and others. A detailed account of the political and personal toll of the Northern Ireland conflict.
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>08</TextTypeCode>
+<Text>a useful introduction
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>Brian Feeney, a political columnist with the Irish News, is a leading nationalist commentator and frequent broadcaster on Northern Ireland affairs.  He was an SDLP councillor for sixteen years.  He is co-author of Lost Lives: the story of the men, women and children killed in the Northern Ireland troubles. In 2001 the book won the Christopher Ewart-Biggs award for its contribution to reconciliation in Ireland and Europe. A historian by profession, he is Head of History at St Mary's University College, Belfast.</Text>
+</OtherText>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9781847176585.jpg</MediaFileLink>
+</MediaFile>
+<ProductWebsite>
+<ProductWebsiteLink>http://www.obrien.ie/book780.cfm</ProductWebsiteLink>
+</ProductWebsite>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>69692</NameCodeValue>
+<ImprintName>O'Brien Press Ltd</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>69692</NameCodeValue>
+<PublisherName>O'Brien Press Ltd</PublisherName>
+</Publisher>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20140428</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+<RelatedProduct>
+<RelationCode>13</RelationCode>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781847176448</IDValue>
+</ProductIdentifier>
+</RelatedProduct>
+</Product>
+<Product>
+<RecordReference>9781847178039</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781847178039</IDValue>
+</ProductIdentifier>
+<ProductIdentifier>
+<ProductIDType>03</ProductIDType>
+<IDValue>9781847178039</IDValue>
+</ProductIdentifier>
+<ProductForm>DG</ProductForm>
+<ProductContentType>10</ProductContentType>
+<EpubType>029</EpubType>
+<EpubFormatDescription>EPUB format</EpubFormatDescription>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>In The Name of Jaysus!</TitleText>
+<Subtitle>Stuff That Drives Irish People Round the Feckin' Bend</Subtitle>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Colin Murphy</PersonName>
+<PersonNameInverted>Murphy, Colin</PersonNameInverted>
+<NamesBeforeKey>Colin</NamesBeforeKey>
+<KeyNames>Murphy</KeyNames>
+</Contributor>
+<Contributor>
+<SequenceNumber>2</SequenceNumber>
+<ContributorRole>A12</ContributorRole>
+<PersonName>Brendan O'Reilly</PersonName>
+<PersonNameInverted>O'Reilly, Brendan</PersonNameInverted>
+<NamesBeforeKey>Brendan</NamesBeforeKey>
+<KeyNames>O'Reilly</KeyNames>
+</Contributor>
+<IllustrationsNote>50,Illustrations, black and white</IllustrationsNote>
+<BASICMainSubject>HUM000000</BASICMainSubject>
+<BASICVersion>1.1</BASICVersion>
+<BICMainSubject>WH</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>13</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>1DBR</SubjectCode>
+<SubjectHeadingText>Ireland</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>WH</SubjectCode>
+<SubjectHeadingText>Humour</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>94</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>1DDR</SubjectCode>
+<SubjectHeadingText>Ireland</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>T13.0</SubjectCode>
+<SubjectHeadingText>Humour: Collections &amp; General</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<OtherText>
+<TextTypeCode>02</TextTypeCode>
+<Text>In the Name of Jaysus is a hilarious rant about all of the maddening things we have to put up with in Ireland; things that are easily fixable, but nobody has bothered; things that exist purely so that some fecker can get his hands on your dosh; or things that go on because those responsible for them are simply a bunch of stupid gobshites.
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>03</TextTypeCode>
+<Text>Ever lose the head when the country grinds to a standstill after two centimetres of snow? Do foreigners who think we are still part of Britain give you a serious pain in the arse? Ever wondered why we're ripped-off left, right and centre in Ireland? Do meaningless electronic bus signs drive you to drink? Do all the parish pump politicians, daft road signage, government waste, OTT first communions, perennially pathetic health service, dodgy bankers getting off scot free and a million other infuriating quirks of Irish society absolutely do your head in?
+
+In the Name of Jaysus is a hilarious rant about all of the maddening things we have to put up with in Ireland; things that are easily fixable, but nobody has bothered; things that exist purely so that some fecker can get his hands on your dosh; or things that go on because those responsible for them are simply a bunch of stupid gobshites. 
+
+If you're Irish or just live here and have had to put up with our way of doing things arseways, then in the name of Jaysus, this is the book for you.
+</Text>
+</OtherText>
+<OtherText>
+<TextTypeCode>13</TextTypeCode>
+<Text>Colin Murphy is the author of The Most Famous Irish People You've Never Heard Of and co-author of the bestselling `Feckin' collection (The O'Brien Press). His debut historical novel Boycott (Brandon) was published in 2012 to great acclaim. 
+</Text>
+</OtherText>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9781847178039.jpg</MediaFileLink>
+</MediaFile>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>69692</NameCodeValue>
+<ImprintName>O'Brien Press Ltd</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>69692</NameCodeValue>
+<PublisherName>O'Brien Press Ltd</PublisherName>
+</Publisher>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20151019</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+<RelatedProduct>
+<RelationCode>13</RelationCode>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781847177711</IDValue>
+</ProductIdentifier>
+</RelatedProduct>
+</Product>
+<Product>
+<RecordReference>9780993353949</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9780993353949</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Has Anyone Seen Alice?</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>P T Chambers</PersonName>
+<PersonNameInverted>Chambers, P T</PersonNameInverted>
+<NamesBeforeKey>P T</NamesBeforeKey>
+<KeyNames>Chambers</KeyNames>
+</Contributor>
+<NumberOfPages>402</NumberOfPages>
+<IllustrationsNote>black &amp; white illustrations</IllustrationsNote>
+<BASICMainSubject>FIC025000</BASICMainSubject>
+<BICMainSubject>FA</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectCode>FIC030000</SubjectCode>
+<SubjectHeadingText>FICTION / Thrillers / Suspense</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>10</SubjectSchemeIdentifier>
+<SubjectCode>FIC031010</SubjectCode>
+<SubjectHeadingText>FICTION / Thrillers / Crime</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>FH</SubjectCode>
+<SubjectHeadingText>Thriller / suspense</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>FF</SubjectCode>
+<SubjectHeadingText>Crime &amp; mystery</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>FB</SubjectCode>
+<SubjectHeadingText>Fiction: general &amp; literary</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>FH</SubjectCode>
+<SubjectHeadingText>Thriller / suspense fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>FF</SubjectCode>
+<SubjectHeadingText>Crime &amp; mystery fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>F1.1</SubjectCode>
+<SubjectHeadingText>General &amp; Literary Fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>GEN</SubjectCode>
+<SubjectHeadingText>AF:General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>GNR</SubjectCode>
+<SubjectHeadingText>AF: General</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9780993353949.jpg</MediaFileLink>
+</MediaFile>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>326478</NameCodeValue>
+<ImprintName>Orla Kelly Self Publishing Services</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>326478</NameCodeValue>
+<PublisherName>Orla Kelly Self Publishing Services</PublisherName>
+</Publisher>
+<CityOfPublication>Cork</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20150929</PublicationDate>
+<Measure>
+<MeasureTypeCode>01</MeasureTypeCode>
+<Measurement>203</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>02</MeasureTypeCode>
+<Measurement>127</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>03</MeasureTypeCode>
+<Measurement>23</Measurement>
+<MeasureUnitCode>mm</MeasureUnitCode>
+</Measure>
+<Measure>
+<MeasureTypeCode>08</MeasureTypeCode>
+<Measurement>435</Measurement>
+<MeasureUnitCode>gr</MeasureUnitCode>
+</Measure>
+<SupplyDetail>
+<SupplierName>Bertrams</SupplierName>
+<SupplierRole>04</SupplierRole>
+<SupplyToCountry>GB</SupplyToCountry>
+<ProductAvailability>20</ProductAvailability>
+<UnpricedItemType>04</UnpricedItemType>
+</SupplyDetail>
+<SupplyDetail>
+<SupplierName>Gardners</SupplierName>
+<SupplierRole>04</SupplierRole>
+<SupplyToCountry>GB</SupplyToCountry>
+<ProductAvailability>20</ProductAvailability>
+<UnpricedItemType>04</UnpricedItemType>
+</SupplyDetail>
+<SupplyDetail>
+<SupplierName>Ingrams</SupplierName>
+<SupplierRole>04</SupplierRole>
+<SupplyToCountry>US</SupplyToCountry>
+<ProductAvailability>20</ProductAvailability>
+<UnpricedItemType>04</UnpricedItemType>
+</SupplyDetail>
+</Product>
+<Product>
+<RecordReference>9781847306326</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781847306326</IDValue>
+</ProductIdentifier>
+<ProductForm>BB</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Adding Life to Your Years</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Marian Byrne</PersonName>
+<PersonNameInverted>Byrne, Marian</PersonNameInverted>
+<NamesBeforeKey>Marian</NamesBeforeKey>
+<KeyNames>Byrne</KeyNames>
+</Contributor>
+<NumberOfPages>168</NumberOfPages>
+<BASICMainSubject>SEL016000</BASICMainSubject>
+<BICMainSubject>VSPM</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>VS</SubjectCode>
+<SubjectHeadingText>Self-help &amp; personal development</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>T17.9</SubjectCode>
+<SubjectHeadingText>Popular Psychology</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>PSY</SubjectCode>
+<SubjectHeadingText>ANF:Psychology</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>PSY</SubjectCode>
+<SubjectHeadingText>ANF: Psychology</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>100724</NameCodeValue>
+<ImprintName>Veritas Publications</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>100724</NameCodeValue>
+<PublisherName>Veritas Publications</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>04</PublishingStatus>
+<PublicationDate>20151021</PublicationDate>
+<SupplyDetail>
+<SupplierName>Ingrams</SupplierName>
+<SupplierRole>04</SupplierRole>
+<SupplyToCountry>US</SupplyToCountry>
+<ProductAvailability>20</ProductAvailability>
+<UnpricedItemType>04</UnpricedItemType>
+</SupplyDetail>
+</Product>
+<Product>
+<RecordReference>9781848404946</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781848404946</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<ProductFormDetail>B105</ProductFormDetail>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>The Wing Orderly's Tales</TitleText>
+<TitlePrefix>The</TitlePrefix>
+<TitleWithoutPrefix>Wing Orderly's Tales</TitleWithoutPrefix>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Carlo Gebler</PersonName>
+<PersonNameInverted>Gebler, Carlo</PersonNameInverted>
+<NamesBeforeKey>Carlo</NamesBeforeKey>
+<KeyNames>Gebler</KeyNames>
+</Contributor>
+<BASICMainSubject>FIC019000</BASICMainSubject>
+<BICMainSubject>FA</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>12</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>2.1</SubjectSchemeVersion>
+<SubjectCode>FYB</SubjectCode>
+<SubjectHeadingText>Short stories</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>FBA</SubjectCode>
+<SubjectHeadingText>Modern &amp; contemporary fiction</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>FYB</SubjectCode>
+<SubjectHeadingText>Short stories</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>F1.2</SubjectCode>
+<SubjectHeadingText>Short Stories &amp; Fiction Anthologies</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>GEN</SubjectCode>
+<SubjectHeadingText>AF:General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>SST</SubjectCode>
+<SubjectHeadingText>AF:Short Stories</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>GNR</SubjectCode>
+<SubjectHeadingText>AF: General</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>SST</SubjectCode>
+<SubjectHeadingText>AF: Short Stories</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>50982</NameCodeValue>
+<ImprintName>New Island Books</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>50982</NameCodeValue>
+<PublisherName>New Island Books</PublisherName>
+</Publisher>
+<CityOfPublication>Dublin</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160331</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+<SupplyDetail>
+<SupplierName>Argosy</SupplierName>
+<SupplierRole>04</SupplierRole>
+<SupplyToCountry>GB</SupplyToCountry>
+<ProductAvailability>20</ProductAvailability>
+<UnpricedItemType>04</UnpricedItemType>
+</SupplyDetail>
+</Product>
+<Product>
+<RecordReference>9781910669402</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781910669402</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Even the Daybreak</TitleText>
+<Subtitle>35 Years of Salmon Poetry</Subtitle>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>B01</ContributorRole>
+<PersonName>Jessie Lendennie</PersonName>
+<PersonNameInverted>Lendennie, Jessie</PersonNameInverted>
+<NamesBeforeKey>Jessie</NamesBeforeKey>
+<KeyNames>Lendennie</KeyNames>
+</Contributor>
+<NumberOfPages>350</NumberOfPages>
+<BASICMainSubject>POE005020</BASICMainSubject>
+<BICMainSubject>DCQ</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>DCQ</SubjectCode>
+<SubjectHeadingText>Poetry anthologies (various poets)</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>T3.1</SubjectCode>
+<SubjectHeadingText>Poetry Texts &amp; Poetry Anthologies</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>LIT</SubjectCode>
+<SubjectHeadingText>ANF:Literature</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>LIT</SubjectCode>
+<SubjectHeadingText>ANF: Literature</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>191422</NameCodeValue>
+<ImprintName>Salmon Poetry</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>102017</NameCodeValue>
+<PublisherName>Salmon Publishing Ltd</PublisherName>
+</Publisher>
+<CityOfPublication>Cliffs of Moher</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160315</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+</Product>
+<Product>
+<RecordReference>9781910669389</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781910669389</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Virtual Tides</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Paul Casey</PersonName>
+<PersonNameInverted>Casey, Paul</PersonNameInverted>
+<NamesBeforeKey>Paul</NamesBeforeKey>
+<KeyNames>Casey</KeyNames>
+</Contributor>
+<NumberOfPages>80</NumberOfPages>
+<BASICMainSubject>POE005010</BASICMainSubject>
+<BICMainSubject>DCF</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>DCF</SubjectCode>
+<SubjectHeadingText>Poetry by individual poets</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>T3.1</SubjectCode>
+<SubjectHeadingText>Poetry Texts &amp; Poetry Anthologies</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>LIT</SubjectCode>
+<SubjectHeadingText>ANF:Literature</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>LIT</SubjectCode>
+<SubjectHeadingText>ANF: Literature</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9781910669389.jpg</MediaFileLink>
+</MediaFile>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>191422</NameCodeValue>
+<ImprintName>Salmon Poetry</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>102017</NameCodeValue>
+<PublisherName>Salmon Publishing Ltd</PublisherName>
+</Publisher>
+<CityOfPublication>Cliffs of Moher</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160315</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+</Product>
+<Product>
+<RecordReference>9781910669396</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781910669396</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Ghost of the Fisher Cat</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Afric McGlinchey</PersonName>
+<PersonNameInverted>McGlinchey, Afric</PersonNameInverted>
+<NamesBeforeKey>Afric</NamesBeforeKey>
+<KeyNames>McGlinchey</KeyNames>
+</Contributor>
+<NumberOfPages>80</NumberOfPages>
+<BASICMainSubject>POE005020</BASICMainSubject>
+<BICMainSubject>DCF</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>DCF</SubjectCode>
+<SubjectHeadingText>Poetry by individual poets</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>24</SubjectSchemeIdentifier>
+<SubjectSchemeName>Nielsen BookScan Product Class</SubjectSchemeName>
+<SubjectSchemeVersion>3</SubjectSchemeVersion>
+<SubjectCode>T3.1</SubjectCode>
+<SubjectHeadingText>Poetry Texts &amp; Poetry Anthologies</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>LIT</SubjectCode>
+<SubjectHeadingText>ANF:Literature</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>LIT</SubjectCode>
+<SubjectHeadingText>ANF: Literature</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9781910669396.jpg</MediaFileLink>
+</MediaFile>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>191422</NameCodeValue>
+<ImprintName>Salmon Poetry</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>102017</NameCodeValue>
+<PublisherName>Salmon Publishing Ltd</PublisherName>
+</Publisher>
+<CityOfPublication>Cliffs of Moher</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160301</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+</Product>
+<Product>
+<RecordReference>9781910669426</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781910669426</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Slow Clocks of Decay</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Patrick Chapman</PersonName>
+<PersonNameInverted>Chapman, Patrick</PersonNameInverted>
+<NamesBeforeKey>Patrick</NamesBeforeKey>
+<KeyNames>Chapman</KeyNames>
+</Contributor>
+<BASICMainSubject>POE000000</BASICMainSubject>
+<BASICVersion>BISAC 2013</BASICVersion>
+<BICMainSubject>DCF</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>DCF</SubjectCode>
+<SubjectHeadingText>Poetry by individual poets</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>LIT</SubjectCode>
+<SubjectHeadingText>ANF:Literature</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>LIT</SubjectCode>
+<SubjectHeadingText>ANF: Literature</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9781910669426.jpg</MediaFileLink>
+</MediaFile>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>191422</NameCodeValue>
+<ImprintName>Salmon Poetry</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>102017</NameCodeValue>
+<PublisherName>Salmon Publishing Ltd</PublisherName>
+</Publisher>
+<CityOfPublication>Cliffs of Moher</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160315</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+</Product>
+<Product>
+<RecordReference>9781910669419</RecordReference>
+<NotificationType>03</NotificationType>
+<RecordSourceType>04</RecordSourceType>
+<RecordSourceName>Nielsen BookData</RecordSourceName>
+<ProductIdentifier>
+<ProductIDType>15</ProductIDType>
+<IDValue>9781910669419</IDValue>
+</ProductIdentifier>
+<ProductForm>BC</ProductForm>
+<Title>
+<TitleType>01</TitleType>
+<TitleText>Bone Fire</TitleText>
+</Title>
+<Contributor>
+<SequenceNumber>1</SequenceNumber>
+<ContributorRole>A01</ContributorRole>
+<PersonName>Susan Millar DuMars</PersonName>
+<PersonNameInverted>DuMars, Susan Millar</PersonNameInverted>
+<NamesBeforeKey>Susan Millar</NamesBeforeKey>
+<KeyNames>DuMars</KeyNames>
+</Contributor>
+<BASICMainSubject>POE000000</BASICMainSubject>
+<BASICVersion>BISAC 2013</BASICVersion>
+<BICMainSubject>DCF</BICMainSubject>
+<BICVersion>2.1</BICVersion>
+<Subject>
+<SubjectSchemeIdentifier>93</SubjectSchemeIdentifier>
+<SubjectSchemeVersion>1.0</SubjectSchemeVersion>
+<SubjectCode>DCF</SubjectCode>
+<SubjectHeadingText>Poetry by individual poets</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>75</SubjectSchemeIdentifier>
+<SubjectCode>LIT</SubjectCode>
+<SubjectHeadingText>ANF:Literature</SubjectHeadingText>
+</Subject>
+<Subject>
+<SubjectSchemeIdentifier>92</SubjectSchemeIdentifier>
+<SubjectCode>LIT</SubjectCode>
+<SubjectHeadingText>ANF: Literature</SubjectHeadingText>
+</Subject>
+<AudienceCode>01</AudienceCode>
+<MediaFile>
+<MediaFileTypeCode>04</MediaFileTypeCode>
+<MediaFileFormatCode>03</MediaFileFormatCode>
+<MediaFileLinkTypeCode>06</MediaFileLinkTypeCode>
+<MediaFileLink>9781910669419.jpg</MediaFileLink>
+</MediaFile>
+<Imprint>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>191422</NameCodeValue>
+<ImprintName>Salmon Poetry</ImprintName>
+</Imprint>
+<Publisher>
+<NameCodeType>02</NameCodeType>
+<NameCodeTypeName>Nielsen BookData Org ID</NameCodeTypeName>
+<NameCodeValue>102017</NameCodeValue>
+<PublisherName>Salmon Publishing Ltd</PublisherName>
+</Publisher>
+<CityOfPublication>Cliffs of Moher</CityOfPublication>
+<CountryOfPublication>IE</CountryOfPublication>
+<PublishingStatus>02</PublishingStatus>
+<PublicationDate>20160315</PublicationDate>
+<SalesRights>
+<SalesRightsType>01</SalesRightsType>
+<RightsTerritory>WORLD</RightsTerritory>
+</SalesRights>
+</Product>
+</ONIXMessage>
