@@ -6,9 +6,9 @@ define("APPLICATION_PATH", $sec_path);
 
 // modify these constants to fit your environment
 define("DB_SERVER", "localhost");
-define("DB_NAME", "dev_irishinterest");
-define ("DB_USER", "admin");
-define ("DB_PASSWORD", "");
+define("DB_NAME", "i561957_development");
+define ("DB_USER", "i561957_IIUser");
+define ("DB_PASSWORD", "Gingerman1");
 
 // these are the names for the standard table names
 // !!! Important
