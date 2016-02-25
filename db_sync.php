@@ -31,11 +31,12 @@
 	/*	mysqldump 	*/
 	$cmd = $mySqlDumpExe.$mySqlCred.$mySqlSrcDB.$mySqlTbl. ' > temp.sql';
 	var_dump($cmd);
-	die;
 	exec($cmd, $output, $return);	
 	
 	/* Import	*/
 	$cmd = $mySqlExe . $mySqlTrgDB . ' < temp.sql';
+	var_dump($cmd);
+	die;
 	exec($cmd, $output, $return);
 	
     if ($return != 0) { //0 is ok
