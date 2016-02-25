@@ -2,7 +2,7 @@
 define('DACCESS',1);
 include 'includes/defines.php';
 include 'libraries/Database.php';
-include 'classes/openITIreland/class.nielsen.php';
+include 'classes/OpenITIreland/class.nielsen.php';
 
 $db = new Database;
 $files = getFeeds($db);
