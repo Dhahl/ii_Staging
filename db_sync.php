@@ -10,26 +10,28 @@
     define('DACCESS',1);
     include 'includes/defines.php';
     include 'libraries/Database.php';
-    include 'classes/openITIreland/class.nielsen.php';
+    include 'classes/OpenITIreland/class.nielsen.php';
     
-    $user='admin';
-    $pass='';
+    $user='i561957_IIUser';
+    $pass='Gingerman1';
     $host='localhost';
-	$mySqlDumpExe 	= 'c:\wamp\bin\mysql\mysql5.6.17\bin\mysqldump ';
-	$mySqlExe 	= 	'c:\wamp\bin\mysql\mysql5.6.17\bin\mysql ';
+	$mySqlDumpExe 	= 'mysqldump ';
+	$mySqlExe 	= 	'mysql ';
 	
 	$mySqlCred 	= 	'--user='.$user.
     				' --password='.$pass .
     				' --host='.$host;
 	
 	$mySqlSrcDB = ' i561957_irishinterest ';
-	$mySqlTrgDB = ' dev_irishinterest ';
+	$mySqlTrgDB = ' i561957_development ';
 	
 	$mySqlTbl =  ' authors author_x_book categories publications publishers ';
 	
 	echo "<p>Copying Files ...";
 	/*	mysqldump 	*/
 	$cmd = $mySqlDumpExe.$mySqlCred.$mySqlSrcDB.$mySqlTbl. ' > temp.sql';
+	var_dump($cmd);
+	die;
 	exec($cmd, $output, $return);	
 	
 	/* Import	*/
