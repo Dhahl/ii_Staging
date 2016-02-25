@@ -37,6 +37,7 @@
 	exec($cmd, $output, $return);
 	
     if ($return != 0) { //0 is ok
+    	echo $cmd;
     	die('Error: ' . implode("\r\n", $output));
     }
     
