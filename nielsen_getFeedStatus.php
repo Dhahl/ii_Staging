@@ -10,7 +10,7 @@ foreach($files as $button){
 	echo $button;
 }
 function getFeeds($db) {
-	$dir = '../ii_2/';
+	$dir = '../ii_staging/';
 	$files = array();
 	if ($dp = opendir($dir)) {
 		while (($file = readdir($dp)) !== false) {
