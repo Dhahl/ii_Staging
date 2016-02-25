@@ -33,7 +33,7 @@
 	exec($cmd, $output, $return);	
 	
 	/* Import	*/
-	$cmd = $mySqlExe . $mySqlTrgDB . ' < temp.sql';
+	$cmd = $mySqlExe . $mySqlCred.$mySqlTrgDB . ' < temp.sql';
 	exec($cmd, $output, $return);
 	
     if ($return != 0) { //0 is ok
