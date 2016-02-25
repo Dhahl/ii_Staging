@@ -25,7 +25,7 @@ tr:nth-child(even) {background-color: #f2f2f2}
 define('DACCESS',1);
 include 'includes/defines.php';
 include 'libraries/Database.php';
-include 'classes/openITIreland/class.nielsen.php';
+include 'classes/OpenITIreland/class.nielsen.php';
 $db = new Database;
 
 $stage = $_GET['stage'];
