@@ -32,6 +32,9 @@ $route['banner'] = 'banner';
 $route['utilities'] = 'utilities';
 
 $route['feed'] = 'feed';
+$route['feed/getBtnIds'] = 'feed/getBtnIds';
+$route['feed/getFeedButtons'] = 'feed/getFeedButtons';
+$route['feed/getStagedButtons'] = 'feed/getStagedButtons';
 
 $route['development/login'] = 'login';
 $route['development/login/forgotpassword'] = 'login/forgotpassword';

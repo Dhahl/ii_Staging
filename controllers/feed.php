@@ -29,4 +29,39 @@ class Feed extends Controller {
 			$this->load->view('feed',$data);
 		}
 	}
+	public function getBtnIds() {	// AJAX function
+		$files = $this->feedmodel->getFeeds();	// for AJAX call.
+		$fileNames = array();
+		if ($files['new']) {
+			foreach ($files['new'] as $file=>$bookCount) {
+				$fileNames[] = $file;		
+			}
+		}
+			if ($files['staged']) {
+			foreach ($files['staged'] as $file=>$bookCount) {
+				$fileNames[] = $file;		
+			}
+		}
+		foreach($fileNames as $file) {
+			//echo $file.',';
+		}
+			echo json_encode($fileNames);
+		die;
+	}
+	public function getFeedButtons(){
+		$files = $this->feedmodel->getFeeds();
+		if($files['new']) {
+			foreach($files['new'] as $file=>$count) {
+				echo $this->feedmodel->file2Button($file);
+			}
+		}
+	}
+	public function getStagedButtons(){
+		$files = $this->feedmodel->getFeeds();
+		if($files['staged']) {
+			foreach($files['staged'] as $file=>$count) {
+				echo $this->feedmodel->file2Button($file,'nielsen_staged/');
+			}
+		}
+	}
 }?>

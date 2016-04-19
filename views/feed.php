@@ -24,28 +24,36 @@
 body {background-color:lightgrey;}
 </style>
 <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
-<script>
+
+<script>	/* ****GLOBALS**** - document.ready */
 	var file1;
+	var loc_root = <?php 
+				echo "'http://".rtrim($_SERVER['HTTP_HOST'] .  $_SERVER['REQUEST_URI'],'feed/')."/'";?>;
+	console.log('Root = ' + loc_root);
 	$( document ).ready(function() {
 		console.log("Document Ready");
-	    setCommitBtn();
+		setInterval(function(){getStagedButtons();resetButtons();},5000);
+		getBtnIdsArr();
 	});
-		
+</script>
+<script> 	//	sync -  db_sync.php		
 	function sync() {
 		var request = $.ajax({
 			//	url: "../Nielsen_feed_db_update.php",
-				url: "../db_sync.php",
+				url: loc_root  + "db_sync.php",
 				type: "POST",			
 				dataType: "html"
 			});
 
 			request.done(function(msg) {
-				loc ="../db_sync.php";
+				loc = loc_root + "db_sync.php";
 				//$("#mybox").html(msg);
 			    document.getElementById('mybox').src = loc;
 				showFileName(' ');	
-				resetButtons();		
-				setCommitBtn();
+				resetButtons();
+				getStagedButtons();		
+				stageBtn.disabled= true;	
+				commitBtn.disabled = true;
 				stageBtn.style.color = '#000';
 				commitBtn.style.color = '#000';		
 			});
@@ -54,54 +62,79 @@ body {background-color:lightgrey;}
 				alert( "Request failed: " + textStatus );
 			});
 	}
+</script>
+<script> 	//	resetButtons - nielsen_getFeedStatu.php
 	function resetButtons() {	// feed files
+		console.log('resetButtons');
 		var request = $.ajax({
-				url: "../nielsen_getFeedStatus.php",
+//				url: loc_root + "nielsen_getFeedStatus.php",
+				url: loc_root + "feed/getFeedButtons",
 				type: "POST",			
 				dataType: "html"
 			});
 
 			request.done(function(msg) {
-				console.log('msg =' + msg);
-				loc ="../nielsen_getFeedStatus.php";
+				//loc = loc_root + "nielsen_getFeedStatus.php";
+				loc = loc_root + "feed/getFeedButtons";
 			    document.getElementById('feedButtons').innerHTML = msg;
-				stageBtn.disabled= true;	
 			});
 
 			request.fail(function(jqXHR, textStatus) {
 				alert( "Request failed: " + textStatus );
 			});
 	}
-	function setCommitBtn() {
+</script>
+<script>	//	Get filenames for btnIds array
+	function getBtnIdsArr() {
+		console.log('getBtnIdsArr');
+		console.log('url = '+loc_root + "feed/getBtnIds/")
 		var request = $.ajax({
-			url: "../nielsen_getCommitStatus.php",
+			url: loc_root + "feed/getBtnIds",
 			type: "POST",			
 			dataType: "html"
 		});
 
 		request.done(function(msg) {
-			console.log('Commit msg =' + msg);
-			loc ="../nielsen_getCommitStatus.php";
-		   // document.getElementById('feedButtons').innerHTML = msg; // check if any file has been staged
-		   if(msg == 1) { // at least one committed file 
-				commitBtn.disabled = false;
-				commitBtn.style.color ='red';
-		   }
-		   else
-				commitBtn.disabled = true; // none committed
+				loc = loc_root + "feed/getBtnIds";
+		    console.log('btnIds array =  ' + msg);
+		    btnIds = JSON.parse(msg);
+		    console.log('after JSON-parse: ' + btnIds);
 		});
 
 		request.fail(function(jqXHR, textStatus) {
 			alert( "Request failed: " + textStatus );
 		});
+	
+}
+</script>
+<script> 	//	getStagedButtons - nielsen_getStagedButtons.php
+	function getStagedButtons() {	// feed files
+		console.log('getStagedButtons');
+		var request = $.ajax({
+				url: loc_root + "feed/getStagedButtons",
+				type: "POST",			
+				dataType: "html"
+			});
+
+			request.done(function(msg) {
+// 				loc = loc_root + "nielsen_getStagedButtons.php";
+			    document.getElementById('stagedButtons').innerHTML = msg;
+			    console.log(msg);
+			});
+
+			request.fail(function(jqXHR, textStatus) {
+				alert( "Request failed: " + textStatus );
+			});
 	}
+</script>
+
+<script> 	//	"MyCall" -  "nielsen_view_feed_1.php" -  display a feed file
 	function myCall(file) {	// select a feed file
 		file1 = file;
-
 	    document.getElementById('mybox').src = '';
 		var request = $.ajax({
 		//	url: "../Nielsen_feed_db_update.php",
-			url: "../nielsen_view_feed_1.php",
+			url: loc_root + "nielsen_view_feed_1.php",
 			data: {file: file},
 			data: {stage: '0'},
 			type: "POST",			
@@ -110,11 +143,11 @@ body {background-color:lightgrey;}
 
 		request.done(function(msg) {
 			//loc ="../Nielsen_feed_db_update.php?file=" + file;
-			loc ="../nielsen_view_feed_1.php?file=" + file+ '&stage=0';
+			loc = loc_root + "nielsen_view_feed_1.php?file=" + file+ '&stage=0';
 			//$("#mybox").html(msg);
 		    document.getElementById('mybox').src = loc;
 			showFileName(file);	
-			setButtons(file)		
+			setButtons(file);		
 	    	stageBtn.disabled = false;
 	    	stageBtn.style.color = 'red';
 		});
@@ -123,6 +156,8 @@ body {background-color:lightgrey;}
 			alert( "Request failed: " + textStatus );
 		});
 	}
+</script>
+<script> 	// 	showFileName - display the selected file's name
 	function showFileName(file) {
 		if(file == ' ') {
 		    document.getElementById('filename').innerHTML = '';
@@ -131,9 +166,11 @@ body {background-color:lightgrey;}
 		    document.getElementById('filename').innerHTML = 'Reviewing Feed file: <span style="color:red;">' + file+'</span>';
 		}		
 	}
+</script>
+<script> 	//	SetButtons - set display properties of buttons Selected / not Selected
 	function setButtons(file) {
 		btnIds.forEach(function(btnId) {
-			
+			console.log(btnId);
 			if(btnId == file) {
 				document.getElementById(btnId).style.color="#999";
     		}
@@ -142,30 +179,24 @@ body {background-color:lightgrey;}
 			}
     	});
     }
-</script>				
-<script>
-	
+</script>
+<script>	//	Stage 
 	function stage() {
-		
 		var request = $.ajax({
 		//	url: "../Nielsen_feed_db_update.php",
-			url: "../nielsen_view_feed_1.php",
+			url: loc_root + "nielsen_view_feed_1.php",
 			data: {file: file1},
 			data: {stage: '1'},
 			type: "POST",			
 			dataType: "html"
 		});
-
 		request.done(function(msg) {
 			console.log('Staged file: '+ file1);
-			//loc ="../Nielsen_feed_db_update.php?file=" + file;
-			loc ="../nielsen_view_feed_1.php?file=" + file1 + '&stage=1';
-			//$("#mybox").html(msg);
+			loc = loc_root + "nielsen_view_feed_1.php?file=" + file1 + '&stage=1';
 		    document.getElementById('mybox').src = loc;
-			document.getElementById(file1).innerHTML += ' <span class="glyphicon glyphicon-star" aria-hidden="true"></span> ';
 			commitBtn.disabled = false;
+			stageBtn.disabled= true;	
 			commitBtn.style.color = 'red';		
-			console.log(file1);			
 		});
 
 		request.fail(function(jqXHR, textStatus) {
@@ -173,12 +204,33 @@ body {background-color:lightgrey;}
 		});
 	}
 </script>				
-
+<script> 	//	Commit
+	function commit() {
+		console.log("commit");
+		var request = $.ajax({
+			url: loc_root + "commit.php",
+			type: "POST",			
+			dataType: "html"
+		});
+		request.done(function(msg) {
+			$('#mybox').contents().find('html').html(msg);
+			commitBtn.disabled = true;
+			commitBtn.style.color = '#000';
+			getBtnIdsArr()		
+		});
+		request.fail(function(jqXHR, textStatus) {
+			alert( "Request failed: " + textStatus );
+		});
+	}
+</script>				
  </head>
  <body role="document">
  
  <?php 
-$userMenu =	'
+//var_dump($_SERVER);
+//var_dump($_SERVER['HTTP_HOST'] .  $_SERVER['REQUEST_URI']);
+//die;
+ $userMenu =	'
 	<button class="btn btn-custom dropdown-toggle" type="button" data-toggle="dropdown" 
     				style="border-radius: 10px; font-weight:900;">'
   					.$_SESSION['user'].'
@@ -247,10 +299,10 @@ $userMenu =	'
 <div class="row" style="padding-left:30px">
 	<div class ="col-md-2" style="text-align:center">
 	<hr>
-		<input class="btn" type="button" onclick="sync();" value="Sync with Live">
+		<input class="btn" type="button" style="color:red" onclick="sync();" value="Sync with Live">
 	<hr>
  	<h5><u>Available Feeds</u></h5>
-					<div id="feedButtons" style="height:200px; overflow:auto"  >
+					<div id="feedButtons" style="height:100px; overflow:auto"  >
 <div class="btn-group-vertical btn-group-sm" role="group">
 <?php
  function parseFileName($fileName) {
@@ -261,26 +313,48 @@ $userMenu =	'
 
 $files = $feed;
 $fileNames = array();
-if ($files) { 
-	foreach ($files as $file=>$bookCount) {
+if ($files['new']) { 
+	foreach ($files['new'] as $file=>$bookCount) {
 		$fileNames[] = $file;		// for JS 
 		$feedDate = parseFileName($file);
 		$style='';
-		if($bookCount) $style = ' <span class="glyphicon glyphicon-star" aria-hidden="true"></span> ';
-		echo '<button id="'.$file.'"'.' type="button" class="btn btn-default btn-xs" onclick="myCall(\''.$file.'\');" >'. $feedDate .$style.'</button>'; 
+		echo '<button id="'.$file.'"'.' type="button" class=" btn-default btn-xs" onclick="myCall(\''.$file.'\');" >'. $feedDate .$style.'</button>'; 
 	}
 } else { 
-	exit('No files found.'); 
+	echo 'No files found.'; 
 } 
 ?>
+			</div>
+		</div>
+
+		 	<h5><u>Staged Feeds</u></h5>
+			  <div id="stagedButtons" style="height:200px; overflow:auto"  >
+				<div class="btn-group-vertical btn-group-sm" role="group">
+<?php 
+$commitBtnEnable = 'disabled';
+$commitBtnStyle = '';
+if ($files['staged']) { 
+	foreach ($files['staged'] as $file=>$bookCount) {
+		$fileNames[] = $file;		// for JS 
+		$dir = 'nielsen_staged/';
+		$feedDate = parseFileName($file);
+		$style='';
+		echo '<button id="'.$file.'"'.' type="button" class=" btn-default btn-xs" onclick="myCall(\''.$dir.$file.'\');" >'. $feedDate .$style.'</button>'; 
+	}
+	$commitable = true;
+	$commitBtnEnable = "";
+	$commitBtnStyle = ' style="color:red;" ';
+} else { 
+	echo 'No files found.'; 
+} 
+?>
+				</div>
+			  </div>
 <script type="text/javascript">
     var btnIds = <?php echo json_encode($fileNames); ?>;
+    console.log('buttonIds(1) = ' + btnIds);
 </script>
-			</div>
-			
-			
-		</div>
-	<input class="btn" id="commitBtn" type="button" onclick="myCall(\''.$file.'\');" value="Commit to Live System">
+	<input class="btn" <?php echo $commitBtnEnable.$commitBtnStyle;?> id="commitBtn" type="button" onclick="commit();" value="Commit to Live System">
 	</div>
 	<!-- div class="col-md-7" id="mybox" style="overflow:scroll; height:400px;">
 	 -->

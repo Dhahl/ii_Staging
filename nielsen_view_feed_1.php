@@ -22,6 +22,7 @@ tr:nth-child(even) {background-color: #f2f2f2}
 </style>
 </head>
 <?php
+//var_dump($GLOBALS);
 define('DACCESS',1);
 include 'includes/defines.php';
 include 'libraries/Database.php';
@@ -30,9 +31,10 @@ $db = new Database;
 
 $stage = $_GET['stage'];
 $file = '/'.$_GET['file'];
-
-$fileParsed = explode('_',$file);
+$file_ ='/'. ltrim($file,'/nielsen_staged');
+$fileParsed = explode('_',$file_);
 $imgFolder = $fileParsed[0].'_'.$fileParsed[1].'_'.$fileParsed[2].'_'.$fileParsed[3].'_'.substr($fileParsed[4],0,2).'.img';
+
 $userId = $_GET['file'];
 
 $BIC_Category_map = array('A'=>'Art','B'=>'Biography','C'=>'Language','D'=>'Literature','F'=>'Fiction',
@@ -43,8 +45,12 @@ foreach ($BIC_Category_map as $code=>$name){
 	$sql = 'select * from categories where Name = "'. $name.'"';
 	$db->query($sql);
 	$category  = $db->loadobject();
-	$categoryids[$code] =   $category->id;
+	if($category) $categoryids[$code] =   $category->id;
+	else echo $name . " - Category Undefined in database<br>";
+//	var_dump($category);
+	
 }
+//var_dump($categoryids);
 $xml = file_get_contents(dirname(__FILE__).$file);
 $xml = simplexml_load_string($xml);
 
@@ -158,7 +164,7 @@ foreach($xml->Product as $key=>$product) {		// ***** start Product (Book) Loop
 		$form = 'e-book';
 		$ebook = true;
 	}
-	if($stage) {
+	if($stage ==1) {
 		/*	Languages	*/
 		$languages = $book->formatLanguages($db,$product);
 		
@@ -239,8 +245,15 @@ echo '<tr><td>Publishers created:</td><td>'.$publishersCreated.'</td></tr>';
 echo '</table></div>
 		</div>';
 echo '<hr><p>End of Report</p>';
-
-
+/*
+ * move the file ... 
+ */
+if($stage == 1) {
+	$xml = '';
+	$file1 = ltrim($file,'/');
+	rename($file1,'nielsen_staged/'.$file1);	// move to staged folder
+	echo 'File '.$file1.' moved to '.'nielsen_staged/'.$file1;
+}
 function formatHeader() {
 	return '<table>
 				<tr >
