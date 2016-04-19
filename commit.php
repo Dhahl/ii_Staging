@@ -28,15 +28,15 @@ tr:nth-child(even) {background-color: #f2f2f2}
     include 'includes/defines.php';
     include 'libraries/Database.php';
 //    include 'classes/openITIreland/class.nielsen.php';
-/*LIVE 
+/*LIVE */
     $user='i561957_IIUser';
     $pass='Gingerman1';
     $mySqlDumpExe 	= 'mysqldump ';
 	$mySqlExe 	= 	'mysql ';
 	$mySqlSrcDB = ' i561957_irishinterest ';
 	$mySqlTrgDB = ' i561957_development ';
-*/
-/* LOCAL */
+
+/* LOCAL 
     $user='';
     $pass='';
 	$mySqlDumpExe 	= 'C:\wamp\bin\mysql\mysql5.6.17\bin\mysqldump ';
@@ -49,7 +49,9 @@ tr:nth-child(even) {background-color: #f2f2f2}
     				' --password='.$pass .
     				' --host='.$host;
     $mySqlTbl =  ' authors author_x_book categories publications publishers ';
-    /*
+*/
+	
+	/*
 	 * Move all files from Staging Folder to Committed 
 	 */
     $stagingDir = 'nielsen_staged/';
