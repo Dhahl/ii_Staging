@@ -35,10 +35,10 @@ tr:nth-child(even) {background-color: #f2f2f2}
 	$mySqlExe 	= 	'mysql ';
 	$mySqlSrcDB = ' i561957_staging ';
 	$mySqlTrgDB = ' i561957_development ';
-	$liveDir = '../';	/* - target location for Images. 
+	$imgDir = '../';	/* - target location for Images. 
 						 *	NB: assumes Feed root (this file location) is subfolder of Live. */
 	
-/* LOCAL */
+/* LOCAL 
     $user='';
     $pass='';
 	$mySqlDumpExe 	= 'C:\wamp\bin\mysql\mysql5.6.17\bin\mysqldump ';
@@ -46,7 +46,8 @@ tr:nth-child(even) {background-color: #f2f2f2}
 	$mySqlSrcDB = ' staging_irishinterest ';
 	$mySqlTrgDB = ' dev_irishinterest';
     $stagingDir = 'upload/';
-    $liveDir 	= '../ii_2/';
+    $imgDir 	= '../ii_2/';
+ */ 
  /* <ENDS> */
 	$host='localhost';
 	$mySqlCred 	= 	'--user='.$user.
@@ -77,7 +78,7 @@ tr:nth-child(even) {background-color: #f2f2f2}
      * move all images from staging area to Live /uploads
      */
     
-    $files = glob($stagingDir.'*'); // get all file names
+    $files = glob($imgDir.'*'); // get all file names
     $rtn = '';
     foreach($files as $file){ // iterate files
     	if(is_file($file)) {
@@ -93,14 +94,17 @@ tr:nth-child(even) {background-color: #f2f2f2}
     /*	mysqldump 	*/
     $cmd = $mySqlDumpExe.$mySqlCred.$mySqlSrcDB.$mySqlTbl. ' > temp.sql';
     exec($cmd, $output, $return);
-
+    if($return == false) echo " export... ok,";
+    else { echo 'Data export- Failed<br>'.$cmd.'<br>'; var_dump($output);var_dump($return);
+    die;}
+    
     /* Import	*/
-    $cmd = $mySqlExe . $mySqlTrgDB . ' < temp.sql';
+    $cmd = $mySqlExe .$mySqlCred. $mySqlTrgDB . ' < temp.sql';
     exec($cmd, $output, $return);
-
-    if ($return != 0) { //0 is ok
-    die('Error: ' . implode("\r\n", $output));
-}
+    if($return == false) echo " export... ok,";
+    else { echo 'Data Import - Failed<br>'.$cmd.'<br>'; var_dump($output);var_dump($return);
+    die;}
+    
 
 echo 'Copied  '.$mySqlTbl.'from '.$mySqlSrcDB.' to '.$mySqlTrgDB.'</p>';
 echo "Complete. ";
