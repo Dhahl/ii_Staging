@@ -43,13 +43,13 @@ tr:nth-child(even) {background-color: #f2f2f2}
 	$mySqlExe 	= 	' C:\wamp\bin\mysql\mysql5.6.17\bin\mysql ';
 	$mySqlSrcDB = ' staging_irishinterest ';
 	$mySqlTrgDB = ' dev_irishinterest';
-	
+*/	
     $host='localhost';
 	$mySqlCred 	= 	'--user='.$user.
     				' --password='.$pass .
     				' --host='.$host;
     $mySqlTbl =  ' authors author_x_book categories publications publishers ';
-*/
+
 	
 	/*
 	 * Move all files from Staging Folder to Committed 

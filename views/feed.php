@@ -352,24 +352,24 @@ if ($files['staged']) {
 			  </div>
 <script type="text/javascript">
     var btnIds = <?php echo json_encode($fileNames); ?>;
-    console.log('buttonIds(1) = ' + btnIds);
+
 </script>
 	<input class="btn" <?php echo $commitBtnEnable.$commitBtnStyle;?> id="commitBtn" type="button" onclick="commit();" value="Commit to Live System">
 	</div>
 	<!-- div class="col-md-7" id="mybox" style="overflow:scroll; height:400px;">
 	 -->
-	 <div style="">
+	<div style="">
 	 <div class="col-md-9" style=" height:400px;"><!--overflow-x:auto;-->
 	 <div id="filename" style="padding-top:10px;">No File Selected</div>
 	  <iframe id="mybox" src="about:blank" width="100%" height="100%" frameborder="1" scrolling="yes"></iframe>
-	</div>
-</div>
-</div>
-<div class="row" style="text-align:center; padding-top:30px;">
+<div class="row" style="text-align:center;">
 <?php
 echo '
 	<input class="btn" type="button" id="stageBtn" disabled onclick="stage();" value="Stage">'
 	?>
+</div>
+	 </div>
+	</div>
 </div>
 <?php 
 function displayMessage()	{
