@@ -302,7 +302,7 @@ body {background-color:lightgrey;}
 		<input class="btn" type="button" style="color:red" onclick="sync();" value="Sync with Live">
 	<hr>
  	<h5><u>Available Feeds</u></h5>
-					<div id="feedButtons" style="height:100px; overflow:auto"  >
+					<div id="feedButtons" style="height:125px; overflow:auto"  >
 <div class="btn-group-vertical btn-group-sm" role="group">
 <?php
  function parseFileName($fileName) {
@@ -328,7 +328,7 @@ if ($files['new']) {
 		</div>
 
 		 	<h5><u>Staged Feeds</u></h5>
-			  <div id="stagedButtons" style="height:200px; overflow:auto"  >
+			  <div id="stagedButtons" style="height:125px; overflow:auto"  >
 				<div class="btn-group-vertical btn-group-sm" role="group">
 <?php 
 $commitBtnEnable = 'disabled';
@@ -354,7 +354,9 @@ if ($files['staged']) {
     var btnIds = <?php echo json_encode($fileNames); ?>;
 
 </script>
+<div style="padding-top:5px;">
 	<input class="btn" <?php echo $commitBtnEnable.$commitBtnStyle;?> id="commitBtn" type="button" onclick="commit();" value="Commit to Live System">
+</div>
 	</div>
 	<!-- div class="col-md-7" id="mybox" style="overflow:scroll; height:400px;">
 	 -->
@@ -362,7 +364,7 @@ if ($files['staged']) {
 	 <div class="col-md-9" style=" height:400px;"><!--overflow-x:auto;-->
 	 <div id="filename" style="padding-top:10px;">No File Selected</div>
 	  <iframe id="mybox" src="about:blank" width="100%" height="100%" frameborder="1" scrolling="yes"></iframe>
-<div class="row" style="text-align:center;">
+<div class="row" style="padding-top:3px; text-align:center;">
 <?php
 echo '
 	<input class="btn" type="button" id="stageBtn" disabled onclick="stage();" value="Stage">'

@@ -33,16 +33,15 @@ tr:nth-child(even) {background-color: #f2f2f2}
     $mySqlDumpExe 	= 'mysqldump ';
 	$mySqlExe 	= 	'mysql ';
 	$mySqlSrcDB = ' i561957_irishinterest ';
-	$mySqlTrgDB = ' i561957_development ';
+	$mySqlTrgDB = ' i561957_staging ';
 
-/* LOCAL 
+/* LOCAL */
     $user='';
     $pass='';
 	$mySqlDumpExe 	= 'C:\wamp\bin\mysql\mysql5.6.17\bin\mysqldump ';
 	$mySqlExe 	= 	' C:\wamp\bin\mysql\mysql5.6.17\bin\mysql ';
 	$mySqlSrcDB = ' i561957_irishinterest ';
 	$mySqlTrgDB = ' staging_irishinterest';
-	*/
 /*	<END>	*/	
 	
     $host='localhost';

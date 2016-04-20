@@ -33,18 +33,22 @@ tr:nth-child(even) {background-color: #f2f2f2}
     $pass='Gingerman1';
     $mySqlDumpExe 	= 'mysqldump ';
 	$mySqlExe 	= 	'mysql ';
-	$mySqlSrcDB = ' i561957_irishinterest ';
+	$mySqlSrcDB = ' i561957_staging ';
 	$mySqlTrgDB = ' i561957_development ';
-
-/* LOCAL 
+	$liveDir = '../';	/* - target location for Images. 
+						 *	NB: assumes Feed root (this file location) is subfolder of Live. */
+	
+/* LOCAL */
     $user='';
     $pass='';
 	$mySqlDumpExe 	= 'C:\wamp\bin\mysql\mysql5.6.17\bin\mysqldump ';
 	$mySqlExe 	= 	' C:\wamp\bin\mysql\mysql5.6.17\bin\mysql ';
 	$mySqlSrcDB = ' staging_irishinterest ';
 	$mySqlTrgDB = ' dev_irishinterest';
-*/	
-    $host='localhost';
+    $stagingDir = 'upload/';
+    $liveDir 	= '../ii_2/';
+ /* <ENDS> */
+	$host='localhost';
 	$mySqlCred 	= 	'--user='.$user.
     				' --password='.$pass .
     				' --host='.$host;
@@ -72,8 +76,7 @@ tr:nth-child(even) {background-color: #f2f2f2}
     /* 
      * move all images from staging area to Live /uploads
      */
-    $stagingDir = 'upload/';
-    $liveDir 	= '../ii_2/';
+    
     $files = glob($stagingDir.'*'); // get all file names
     $rtn = '';
     foreach($files as $file){ // iterate files
