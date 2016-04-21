@@ -38,16 +38,16 @@ tr:nth-child(even) {background-color: #f2f2f2}
 	$imgDir = '../';	/* - target location for Images. 
 						 *	NB: assumes Feed root (this file location) is subfolder of Live. */
 	
-/* LOCAL 
+/* LOCAL
     $user='';
     $pass='';
 	$mySqlDumpExe 	= 'C:\wamp\bin\mysql\mysql5.6.17\bin\mysqldump ';
 	$mySqlExe 	= 	' C:\wamp\bin\mysql\mysql5.6.17\bin\mysql ';
 	$mySqlSrcDB = ' staging_irishinterest ';
 	$mySqlTrgDB = ' dev_irishinterest';
-    $stagingDir = 'upload/';
-    $imgDir 	= '../ii_2/';
- */ 
+    $imgStagingDir = 'upload/';
+    $imgCommitDir 	= '../ii_2/';
+  */ 
  /* <ENDS> */
 	$host='localhost';
 	$mySqlCred 	= 	'--user='.$user.
@@ -78,12 +78,12 @@ tr:nth-child(even) {background-color: #f2f2f2}
      * move all images from staging area to Live /uploads
      */
     
-    $files = glob($imgDir.'*'); // get all file names
+    $files = glob($imgStagingDir.'*'); // get all file names
     $rtn = '';
     foreach($files as $file){ // iterate files
     	if(is_file($file)) {
-    		$s = rename($file,$liveDir.$file); // move file
-    		if($s) $rtn .= "<br>File ".$file." moved to ".$liveDir;
+    		$s = rename($file,$imgCommitDir.$file); // move file
+    		if($s) $rtn .= "<br>File ".$file." moved to ".$imgDir;
     	}
     	else $rtn .= "<br>File ".$file." Not found";
     }
