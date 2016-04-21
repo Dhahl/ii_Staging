@@ -35,21 +35,21 @@ tr:nth-child(even) {background-color: #f2f2f2}
 	$mySqlExe 	= 	'mysql ';
 	$mySqlSrcDB = ' i561957_staging ';
 	$mySqlTrgDB = ' i561957_development ';
-	$imgDir = '../';	/* - target location for Images. 
+	$imgCommitDir = '../';	/* - target location for Images. 
 						 *	NB: assumes Feed root (this file location) is subfolder of Live. */
 	
-/* LOCAL
+/* LOCAL  
     $user='';
     $pass='';
 	$mySqlDumpExe 	= 'C:\wamp\bin\mysql\mysql5.6.17\bin\mysqldump ';
 	$mySqlExe 	= 	' C:\wamp\bin\mysql\mysql5.6.17\bin\mysql ';
 	$mySqlSrcDB = ' staging_irishinterest ';
 	$mySqlTrgDB = ' dev_irishinterest';
-    $imgStagingDir = 'upload/';
     $imgCommitDir 	= '../ii_2/';
-  */ 
+ */
  /* <ENDS> */
-	$host='localhost';
+    $imgStagingDir = 'upload/';
+    $host='localhost';
 	$mySqlCred 	= 	'--user='.$user.
     				' --password='.$pass .
     				' --host='.$host;
